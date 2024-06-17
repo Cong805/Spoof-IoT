@@ -30,8 +30,10 @@ python run.py --type test --model <model name> --file <path name>
 ```
 The path name is the file path of your test data.
 # Model Adversarial Samples
-This section provides a method for generating adversarial samples to spoof model-based IoT device scanning activities.
-LGS_XX.py represents a change in one or any one of the three tuples (device type, product, vendor).
+This section provides a method for generating adversarial samples to spoof model-based IoT device scanning activities.  
+  
+LGS_XX.py represents a change in one or any one of the three tuples (device type, product, vendor).  
+
 You can generate adversarial samples:
 ```
 python search_space_XX.py
