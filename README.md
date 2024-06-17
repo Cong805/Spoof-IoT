@@ -37,8 +37,8 @@ python search_space_XX.py
 ```
 # Rule Adversarial Samples
 This section provides a method for generating adversarial samples to spoof rule-based IoT device scanning activities.  
-strategy_experiment implements different replacement strategies.  
-Device type and vendor contain different categories of hotwords.  
+* strategy_experiment implements different replacement strategies.  
+* Device type and vendor contain different categories of hotwords.  
 Hotwords table can be generated based on the training set:
 ```
 python get_hot_word.py
@@ -47,4 +47,8 @@ If the data set is updated, you can also get new hotwords table:
 
 ```
 python get_hot_word.py --data_path
+```
+You can generate adversarial samples:
+```
+python model_based_XXX.py
 ```
