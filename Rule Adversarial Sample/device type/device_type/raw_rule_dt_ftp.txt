@@ -1,0 +1,1173 @@
+{"id": 1, "device_type": "Camera", "brand": "AXIS", "product": "M1145", "banner": "220 ET0021B7E5DDE9 Lexmark XM1145 FTP Server NH5.SB.N543 ready.\r\n"}
+{"id": 2, "device_type": "Camera", "brand": "AXIS", "product": "M1145", "banner": "220 ET0021B76172D8 Lexmark XM1145 FTP Server NH.SB.N439 ready.\r\n"}
+{"id": 3, "device_type": "camera", "brand": "canon", "product": "s410", "banner": "220 ET0021B70173FB Lexmark MS410dn FTP Server NH62.CY.N636 ready.\r\n"}
+{"id": 4, "device_type": "Camera", "brand": "AXIS", "product": "M1145", "banner": "220 ET0021B7CB3384 Lexmark XM1145 FTP Server NH63.SB.N640 ready.\r\n"}
+{"id": 5, "device_type": "Camera", "brand": "AXIS", "product": "M1145", "banner": "220 ET0021B7731D96 Lexmark XM1145 FTP Server NH63.SB.N639 ready.\r\n"}
+{"id": 6, "device_type": "camera", "brand": "canon", "product": "s410", "banner": "220 PL16222 Lexmark MS410dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 7, "device_type": "camera", "brand": "canon", "product": "s410", "banner": "220 ET0021B70B2E0A Lexmark CS410n FTP Server NH63.VY.N640 ready.\r\n"}
+{"id": 8, "device_type": "camera", "brand": "sony", "product": "n50", "banner": "220 ET0021B73CFE76 Lexmark T652 FTP Server NR.APS.N504 ready.\r\n"}
+{"id": 9, "device_type": "camera", "brand": "canon", "product": "s410", "banner": "220 ET0021B781E0FB Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"id": 10, "device_type": "camera", "brand": "canon", "product": "s410", "banner": "220 ET0021B73E34B7 Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"id": 11, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ET0021B741A418 KONICA MINOLTA bizhub 4020 FTP Server NH.SB.N331 ready.\r\n"}
+{"id": 12, "device_type": "camera", "brand": "sony", "product": "n50", "banner": "220 ET0021B7FC41E6 Lexmark T652 FTP Server NR.APS.N504 ready.\r\n"}
+{"id": 13, "device_type": "camera", "brand": "sony", "product": "n50", "banner": "220 ET0021B78C015F Olivetti d-Color MF928 FTP Server NR.APS.N504 ready.\r\n"}
+{"id": 14, "device_type": "camera", "brand": "sony", "product": "n50", "banner": "220 ET0021B724D84A Lexmark T654 FTP Server NR.APS.N504 ready.\r\n"}
+{"id": 15, "device_type": "camera", "brand": "canon", "product": "s410", "banner": "220 ET0021B781847E Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"id": 16, "device_type": "Camera", "brand": "AXIS", "product": "F44", "banner": "220 ET0021B7B8F445 Lexmark E360dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 17, "device_type": "camera", "brand": "mikrotik", "product": "a81", "banner": "220 ET0021B777599A Sindoh A810dn Mono Printer FTP Server MSNGW.052.024 ready.\r\n"}
+{"id": 18, "device_type": "camera", "brand": "cnet", "product": "s3000", "banner": "220 LP-S3000-0ADC3F FTP server (OEM FTPD version 1.01) ready.\r\n"}
+{"id": 19, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A4195) [192.168.0.1] UTF-8\r\n"}
+{"id": 20, "device_type": "camera", "brand": "ericsson", "product": "t610", "banner": "220 Welcome to WRT610N Router's FTP service\r\n"}
+{"id": 21, "device_type": "Camera", "brand": "AXIS", "product": "F44", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6F4419) [192.168.0.1] EUC-KR\r\n"}
+{"id": 22, "device_type": "camera", "brand": "ericsson", "product": "t610", "banner": "220 Welcome to WRT610 Router's FTP service\r\n"}
+{"id": 23, "device_type": "Camera", "brand": "AXIS", "product": "F34", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F3417) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 24, "device_type": "Camera", "brand": "AXIS", "product": "F44", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1AF445) [192.168.0.1] EUC-KR\r\n"}
+{"id": 25, "device_type": "Camera", "brand": "AXIS", "product": "F44", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F44B1) [192.168.0.1]\r\n"}
+{"id": 26, "device_type": "camera", "brand": "samsung", "product": "nx500", "banner": "220 NexusNX-5000 FTP server (NexusWifiNX5000 6.27) ready\r\n"}
+{"id": 27, "device_type": "camera", "brand": "canon", "product": "a16e", "banner": "220 <a16e4ab6>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 28, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A41F1) [192.168.0.1] UTF-8\r\n"}
+{"id": 29, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 <a41236ca>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 30, "device_type": "Camera", "brand": "AXIS", "product": "M1103", "banner": "220 HB-M1103-EC-MX2008-181.Ext FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 31, "device_type": "Camera", "brand": "AXIS", "product": "P3367", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.40.3 (2011) ready.\r\n"}
+{"id": 32, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.51.6 (2019) ready.\r\n"}
+{"id": 33, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.16 (May 31 2010) ready.\r\n"}
+{"id": 34, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3 (2013) ready.\r\n"}
+{"id": 35, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.40.9.2 (2012) ready.\r\n"}
+{"id": 36, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.51.5.1 (2018) ready.\r\n"}
+{"id": 37, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.51.5.2 (2019) ready.\r\n"}
+{"id": 38, "device_type": "Camera", "brand": "AXIS", "product": "Q6032-E", "banner": "220 AXIS Q6032-E PTZ Dome Network Camera 5.40 beta14 (2011) ready.\r\n"}
+{"id": 39, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.51.6 (2019) ready.\r\n"}
+{"id": 40, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 6.50.3.1 (2019) ready.\r\n"}
+{"id": 41, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.20 (Sep 20 2010) ready.\r\n"}
+{"id": 42, "device_type": "Camera", "brand": "AXIS", "product": "P5534", "banner": "220 AXIS P5534 PTZ Dome Network Camera lfp-5.0.0 alpha126 Canna1.0 (2015) re\r\n"}
+{"id": 43, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.8 (2016) ready.\r\n"}
+{"id": 44, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.70.1.2 (2015) ready.\r\n"}
+{"id": 45, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.21 (Apr 28 2011) ready.\r\n"}
+{"id": 46, "device_type": "Camera", "brand": "AXIS", "product": "P3367", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.50.3 (2013) ready.\r\n"}
+{"id": 47, "device_type": "Camera", "brand": "SONY", "product": "SNC-RX550", "banner": "220 Welcome to SONY Network Camera SNC-RX550\r\n"}
+{"id": 48, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.6 (2016) ready.\r\n"}
+{"id": 49, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.40.9.2 (2012) ready.\r\n"}
+{"id": 50, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.2 (2015) ready.\r\n"}
+{"id": 51, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.12 (2017) ready.\r\n"}
+{"id": 52, "device_type": "Camera", "brand": "AXIS", "product": "P3367", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.40.3.2 (2012) ready.\r\n"}
+{"id": 53, "device_type": "camera", "brand": "iqinvision", "product": "iqeye511", "banner": "220 FTP Version 1.1 on IQeye511\r\n"}
+{"id": 54, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.50.5.5 (2017) ready.\r\n"}
+{"id": 55, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.70.1.4 (2016) ready.\r\n"}
+{"id": 56, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.40.9.5 (2015) ready.\r\n"}
+{"id": 57, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.51.5 (2018) ready.\r\n"}
+{"id": 58, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.21.1 (Mar 04 2011) ready.\r\n"}
+{"id": 59, "device_type": "camera", "brand": "axis", "product": "a8105-e", "banner": "220 AXIS A8105-E Network Video Door Station 1.65.2 (2018) ready.\r\n"}
+{"id": 60, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 6.50.4 (2019) ready.\r\n"}
+{"id": 61, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.40.9.3 (2013) ready.\r\n"}
+{"id": 62, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.20.2 (Sep 09 2011) ready.\r\n"}
+{"id": 63, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.70.1 (2015) ready.\r\n"}
+{"id": 64, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.7 (2016) ready.\r\n"}
+{"id": 65, "device_type": "camera", "brand": "axis", "product": "a8105-e", "banner": "220 AXIS A8105-E Network Video Door Station 1.58.2.2 (2017) ready.\r\n"}
+{"id": 66, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.55.1.6 (2015) ready.\r\n"}
+{"id": 67, "device_type": "Camera", "brand": "AXIS", "product": "P3301", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.11.1 (Dec 11 2009) ready.\r\n"}
+{"id": 68, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.55.1.3 (2014) ready.\r\n"}
+{"id": 69, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 6.50.3 (2018) ready.\r\n"}
+{"id": 70, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.20.4 (Jun 13 2017) ready.\r\n"}
+{"id": 71, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.00.1 (Dec 16 2009) ready.\r\n"}
+{"id": 72, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.10 (2017) ready.\r\n"}
+{"id": 73, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.40.13 (2012) ready.\r\n"}
+{"id": 74, "device_type": "camera", "brand": "axis", "product": "a8105-e", "banner": "220 AXIS A8105-E Network Video Door Station 1.65.1.1 (2017) ready.\r\n"}
+{"id": 75, "device_type": "camera", "brand": "axis", "product": "a8004-ve", "banner": "220 AXIS A8004-VE Network Video Door Station 5.65.1.1 (2015) ready.\r\n"}
+{"id": 76, "device_type": "camera", "brand": "axis", "product": "p8524", "banner": "220 SungDang_Sector#2_P8524#3 FTP server ready.\r\n"}
+{"id": 77, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.20.1 (Oct 25 2010) ready.\r\n"}
+{"id": 78, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.55.1 (2013) ready.\r\n"}
+{"id": 79, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.51.5.1 (2018) ready.\r\n"}
+{"id": 80, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.1 (2015) ready.\r\n"}
+{"id": 81, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.55.1.2 (2014) ready.\r\n"}
+{"id": 82, "device_type": "camera", "brand": "axis", "product": "a8004-ve", "banner": "220 AXIS A8004-VE Network Video Door Station 1.65.2 (2018) ready.\r\n"}
+{"id": 83, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.20.3 (Jun 23 2016) ready.\r\n"}
+{"id": 84, "device_type": "Camera", "brand": "AXIS", "product": "Q6034-E", "banner": "220 Axis Q6034-E PTZ Dome Network Camera ftpd ready.\r\n"}
+{"id": 85, "device_type": "camera", "brand": "axis", "product": "a8105-e", "banner": "220 AXIS A8105-E Network Video Door Station 1.65.3.2 (2019) ready.\r\n"}
+{"id": 86, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.15.1 (Apr 20 2010) ready.\r\n"}
+{"id": 87, "device_type": "Camera", "brand": "AXIS", "product": "P3301", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.01 (Aug 01 2008) ready.\r\n"}
+{"id": 88, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 5.70.1.1 (2015) ready.\r\n"}
+{"id": 89, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.3 (2015) ready.\r\n"}
+{"id": 90, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45DA41) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 91, "device_type": "Camera", "brand": "AXIS", "product": "F34", "banner": "220 <f3496d91>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 92, "device_type": "Camera", "brand": "AXIS", "product": "F41", "banner": "220 <2f416599>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 93, "device_type": "camera", "brand": "canon", "product": "a16e", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A16EC5) [192.168.10.1]\r\n"}
+{"id": 94, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A41E5) [192.168.0.1] UTF-8\r\n"}
+{"id": 95, "device_type": "Camera", "brand": "AXIS", "product": "M1103", "banner": "220 HB-M1103-EC-MX2008-180.Ext FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 96, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69FA41) [192.168.0.1] EUC-KR\r\n"}
+{"id": 97, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6AFA41) [192.168.0.1] EUC-KR\r\n"}
+{"id": 98, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-71A417) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 99, "device_type": "Camera", "brand": "AXIS", "product": "F41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F41D9) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 100, "device_type": "Camera", "brand": "AXIS", "product": "F34", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3AF341) [192.168.10.1] UTF-8\r\n"}
+{"id": 101, "device_type": "Camera", "brand": "AXIS", "product": "F41", "banner": "220 <f41430cc>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 102, "device_type": "camera", "brand": "acti", "product": "a41", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C79A41) [192.168.0.1] EUC-KR\r\n"}
+{"id": 103, "device_type": "Camera", "brand": "AXIS", "product": "F34", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DF345) [192.168.0.1] UTF-8\r\n"}
+{"id": 104, "device_type": "camera", "brand": "mikrotik", "product": "rb800", "banner": "220 senius (#10636) RB800 FTP server (MikroTik 6.46) ready\r\n"}
+{"id": 105, "device_type": "camera", "brand": "mikrotik", "product": "rb800", "banner": "220 Home_RB800 FTP server (MikroTik 6.46beta68) ready\r\n"}
+{"id": 106, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 6.30.1 (2016) ready.\r\n"}
+{"id": 107, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.40.9 (2012) ready.\r\n"}
+{"id": 108, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.50.5.1 (2017) ready.\r\n"}
+{"id": 109, "device_type": "Camera", "brand": "AXIS", "product": "P3367", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.60.1 (2014) ready.\r\n"}
+{"id": 110, "device_type": "camera", "brand": "samsung", "product": "nx500", "banner": "220 qual-mari-oh FTP server (NX5000 6.35.2) ready\r\n"}
+{"id": 111, "device_type": "Camera", "brand": "AXIS", "product": "Q1755", "banner": "220 AXIS Q1755 Network Camera 5.02 cst_release (sep 24 2009) ready.\r\n"}
+{"id": 112, "device_type": "camera", "brand": "vicon", "product": "iqeye802", "banner": "220 FTP Version 1.1 on IQeye802\r\n"}
+{"id": 113, "device_type": "Camera", "brand": "AXIS", "product": "M3006", "banner": "220 AXIS M3006 Network Camera 6.50.2.3 (2018) ready.\r\n"}
+{"id": 114, "device_type": "camera", "brand": "iqinvision", "product": "iqeye752", "banner": "220 FTP Version 1.1 on IQeye752\r\n"}
+{"id": 115, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.4 (2015) ready.\r\n"}
+{"id": 116, "device_type": "Camera", "brand": "Sony", "product": "SNC-EP521", "banner": "220-Sony Network Camera SNC-EP521\r\n220 \r\n"}
+{"id": 117, "device_type": "camera", "brand": "iqinvision", "product": "iqeye855", "banner": "220 FTP Version 1.1 on IQeye855\r\n"}
+{"id": 118, "device_type": "camera", "brand": "axis", "product": "a8105-e", "banner": "220 AXIS A8105-E Network Video Door Station 1.58.3 (2016) ready.\r\n"}
+{"id": 119, "device_type": "Camera", "brand": "AXIS", "product": "M1011", "banner": "220 AXIS M1011-W Network Camera 5.00 (Dec 23 2008) ready.\r\n"}
+{"id": 120, "device_type": "Camera", "brand": "AXIS", "product": "P1428-E", "banner": "220 AXIS P1428-E Network Camera lfp-16.13.3_CST550392_b3 (2016) ready.\r\n"}
+{"id": 121, "device_type": "Camera", "brand": "Sony", "product": "SNC-RS46", "banner": "220-Sony Network Camera SNC-RS46\r\n220 \r\n"}
+{"id": 122, "device_type": "Camera", "brand": "AXIS", "product": "M1033-W", "banner": "220 AXIS M1033-W Network Camera 5.40beta4 (2012) ready.\r\n"}
+{"id": 123, "device_type": "Camera", "brand": "AXIS", "product": "M3014", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.05 (Jun 23 2009) ready.\r\n"}
+{"id": 124, "device_type": "Camera", "brand": "AXIS", "product": "P3301", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.51.6 (2019) ready.\r\n"}
+{"id": 125, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.9 (2017) ready.\r\n"}
+{"id": 126, "device_type": "Camera", "brand": "AXIS", "product": "M1054", "banner": "220 AXIS M1054 Network Camera 5.50.3.13 (2017) ready.\r\n"}
+{"id": 127, "device_type": "Camera", "brand": "Sony", "product": "SNC-EP520", "banner": "220-Sony Network Camera SNC-EP520\r\n220 \r\n"}
+{"id": 128, "device_type": "camera", "brand": "iqinvision", "product": "iqeye511", "banner": "220 FTP Version 1.1 on IQeye511DV\r\n"}
+{"id": 129, "device_type": "camera", "brand": "axis", "product": "a8004-ve", "banner": "220 AXIS A8004-VE Network Video Door Station 1.65.3.2 (2019) ready.\r\n"}
+{"id": 130, "device_type": "Camera", "brand": "AXIS", "product": "P3301", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.50.5.4 (2017) ready.\r\n"}
+{"id": 131, "device_type": "camera", "brand": "iqinvision", "product": "iqeye755", "banner": "220 FTP Version 1.1 on IQeye755\r\n"}
+{"id": 132, "device_type": "Camera", "brand": "AXIS", "product": "P3301", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.40.9 (2012) ready.\r\n"}
+{"id": 501, "device_type": "gateway", "brand": "juniper", "product": "srx1400", "banner": "220 BEI-FXFW-SRX1400 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 502, "device_type": "gateway", "brand": "juniper", "product": "srx220", "banner": "220 Baykoclar_Merkez_Srx220 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 503, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VPLTN-SRX340-R02 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 504, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-TangHe-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 505, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 ZhongHuaGuangChang-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 506, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 GOAA_MgtRouter2-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 507, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-GuangShan-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 508, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 DN2-INT-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 509, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 jy-wulumuqi02-srx300-fw FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 510, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 SOG-SRX300-01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 511, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-XiChuan-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 512, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 COFERMET-BOB-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 513, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 K8_SRX340_FW2 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 514, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 SZZT_SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 515, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 PyeongTaek_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 516, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 Aveng-Water-SRX300-CE01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 517, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 STX-CENTRAL-SRX340-01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 518, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 BHXH_Quan4_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 519, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 ZD-HaErBin-HEB_SRX340_1 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 520, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 TBCR_SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 521, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VinhomeStar-ThanhHoa-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 522, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 BHXH_BinhThanh_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 523, "device_type": "gateway", "brand": "addpac", "product": "ap2620", "banner": "220 HanKooK_AP2620 FTP server (Version 1.12) ready.\r\n"}
+{"id": 524, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-RuNan-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 525, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 JS-SuZhou-KunShan-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 526, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-ZhenPing-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 527, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VPLTN-SRX340-R01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 528, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 Cimarron_Schools_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 529, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 PH_POSCO_SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 530, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 JS-ShuZhou-chanshu-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 531, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VINAPCO-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 532, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 Custer_Courthouse_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 533, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 DN2-WAN-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 534, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 JS-ChangZhou-YingFU-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 535, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 YYB8015_CO_FW_SRX300_01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 536, "device_type": "gateway", "brand": "juniper", "product": "srx1400", "banner": "220 401N-SRX1400-A FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 537, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-SuiPing-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 538, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 CCI2A-FIG-SRX300-01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 539, "device_type": "gateway", "brand": "juniper", "product": "srx220", "banner": "220 SIG-P-HB-J-SRX220h2 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 540, "device_type": "gateway", "brand": "juniper", "product": "srx1400", "banner": "220 LY-SRX1400 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 541, "device_type": "gateway", "brand": "mikrotik", "product": "k07", "banner": "220 GFXCHMIK071 FTP server (Router 6.38.5) ready\r\n"}
+{"id": 542, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 SIG-L-BJ-FW-J-SRX300-1 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 543, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-Dancheng-FW-srx300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 544, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 KLNG_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 545, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-ZheCheng-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 546, "device_type": "gateway", "brand": "juniper", "product": "srx220", "banner": "220 HK-SRX220 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 547, "device_type": "gateway", "brand": "juniper", "product": "srx220", "banner": "220 ZCHY-FW-B1-SRX220 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 548, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 CLOUD-SRX300-DEV FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 549, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-Yuanyang-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 550, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VMDN-RTR-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 551, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 LuoYang-test-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 552, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 K8_SRX340_FW1 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 553, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-XinYe-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 554, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 Gfd-Cnty_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 555, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 SH_Hongmao_srx340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 556, "device_type": "gateway", "brand": "juniper", "product": "srx220", "banner": "220 SKBioland_Ansan_SRX220_FW_VPN FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 557, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 MDE5_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 558, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 CVAN-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 559, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 BHXH_HocMon_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 560, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 LGHmoeNet_KyungNam-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 561, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 skrx-srx340-1 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 562, "device_type": "gateway", "brand": "juniper", "product": "srx1400", "banner": "220 LXGW-ZHL-F5-J-FW-SRX1400 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 563, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 TJRC-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 564, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 INKIA_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 565, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 JB-SRX340-node0 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 566, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VLSU_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 567, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 SCANPY-FW-SRX300-01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 568, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 che-won_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 569, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 WanChai_Collab_FW_SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 570, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 BHXH_Quan7_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 571, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 VinhomeCity-GiaLam-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 572, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-Nanzhao-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 573, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 HeN-Shangcai-FW-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 574, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 IKAN_JO_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 575, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 NCDC-SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 576, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 MMCC_SRX340 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 577, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 YYB8015_CO_FW_SRX300_02 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 578, "device_type": "gateway", "brand": "juniper", "product": "srx220", "banner": "220 SIG-P-SC-J-SRX220h2 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 579, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 DEC_SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 580, "device_type": "gateway", "brand": "juniper", "product": "srx1400", "banner": "220 Yesco_SRX1400 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 581, "device_type": "gateway", "brand": "juniper", "product": "srx340", "banner": "220 IKAN_JO_SRX340_SPARE FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 582, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 Garage-SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 583, "device_type": "gateway", "brand": "mikrotik", "product": "k07", "banner": "220 GFXCHMIK070 FTP server (Router 6.38.5) ready\r\n"}
+{"id": 584, "device_type": "gateway", "brand": "juniper", "product": "srx300", "banner": "220 ID_Branch_SRX300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 585, "device_type": "gateway", "brand": "addpac", "product": "ap2620", "banner": "220 SP_seoul(AP2620) FTP server (Version 1.12) ready.\r\n"}
+{"id": 1001, "device_type": "modem", "brand": "asus", "product": "dsl-ac56u", "banner": "220 Welcome to ASUS DSL-AC56U FTP service.\r\n"}
+{"id": 1002, "device_type": "modem", "brand": "asus", "product": "dsl-ac52u", "banner": "220 Welcome to ASUS DSL-AC52U FTP service.\r\n"}
+{"id": 1003, "device_type": "modem", "brand": "asus", "product": "dsl-ac55u", "banner": "220 Welcome to ASUS DSL-AC55U FTP service.\r\n"}
+{"id": 1004, "device_type": "modem", "brand": "asus", "product": "dsl-n16u", "banner": "220 Welcome to ASUS DSL-N16U FTP service.\r\n"}
+{"id": 1005, "device_type": "modem", "brand": "linksys", "product": "cg7500", "banner": "220 Welcome to BPLUS_CG7500's FTP service\r\n"}
+{"id": 1006, "device_type": "modem", "brand": "actiontec", "product": "m1000", "banner": "220 JG_Cheongaram(1000-6)_P3424FG FTP server ready.\r\n"}
+{"id": 1501, "device_type": "printer", "brand": "lexmark", "product": "t612", "banner": "220 ET6125_HMI FTP Service (WSFTP Server Ver4.81.0.0).\r\n"}
+{"id": 1502, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.61) ready.\r\n"}
+{"id": 1503, "device_type": "printer", "brand": "dell", "product": "c2660dn", "banner": "220 Dell C2660dn Color Laser\r\n"}
+{"id": 1504, "device_type": "printer", "brand": "xerox", "product": "sc2020", "banner": "220 FUJI XEROX DocuCentre SC2020\r\n"}
+{"id": 1505, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504ex FTP server (15.66) ready.\r\n"}
+{"id": 1506, "device_type": "printer", "brand": "kyocera", "product": "m3040dn", "banner": "220 ECOSYS M3040dn FTP server\r\n"}
+{"id": 1507, "device_type": "printer", "brand": "lexmark", "product": "t630", "banner": "220 PRINT-324 Lexmark T630 FTP Server 55.10.19 ready.\r\n"}
+{"id": 1508, "device_type": "printer", "brand": "lexmark", "product": "ms310dn", "banner": "220 ET0021B7F103FC Lexmark MS310dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1509, "device_type": "printer", "brand": "lexmark", "product": "c4150", "banner": "220 LMSLibGP Lexmark C4150 FTP Server CSTAT.053.023 ready.\r\n"}
+{"id": 1510, "device_type": "printer", "brand": "olivetti", "product": "6000mf", "banner": "220 d-COPIA 6000MF FTP server\r\n"}
+{"id": 1511, "device_type": "printer", "brand": "olivetti", "product": "5000mf", "banner": "220 d-COPIA 5000MF FTP server\r\n"}
+{"id": 1512, "device_type": "printer", "brand": "xerox", "product": "cm315", "banner": "220 FUJI XEROX DocuPrint CM315/318 z\r\n"}
+{"id": 1513, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7F5D403 Lexmark MS610dn FTP Server NH63.CY.N638 ready.\r\n"}
+{"id": 1514, "device_type": "Printer", "brand": "Dell", "product": "S2810dn", "banner": "220 Dell Printer S2810dn\r\n"}
+{"id": 1515, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B73326B5 Lexmark MS312dn FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1516, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 BFAB-390-XC4140 Lexmark XC4140 FTP Server CXTAT.053.023 ready.\r\n"}
+{"id": 1517, "device_type": "printer", "brand": "kyocera", "product": "m2535dn", "banner": "220 ECOSYS M2535dn FTP server\r\n"}
+{"id": 1518, "device_type": "printer", "brand": "ricoh", "product": "c3504", "banner": "220 RICOH MP C3504ex FTP server (15.75) ready.\r\n"}
+{"id": 1519, "device_type": "printer", "brand": "kyocera", "product": "m6526cdn", "banner": "220 ECOSYS M6526cdn FTP server\r\n"}
+{"id": 1520, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 lexmark1 Lexmark CS410dn FTP Server NH5.VY.N543 ready.\r\n"}
+{"id": 1521, "device_type": "printer", "brand": "xerox", "product": "sc2020", "banner": "220 Xerox DocuCentre SC2020\r\n"}
+{"id": 1522, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 Lexmark Lexmark X264dn FTP Server NR.APS.N645f ready.\r\n"}
+{"id": 1523, "device_type": "printer", "brand": "ricoh", "product": "c3504", "banner": "220 RICOH MP C3504ex FTP server (15.71) ready.\r\n"}
+{"id": 1524, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET00040009005A Lexmark T644 FTP Server NS.NP.N234 ready.\r\n"}
+{"id": 1525, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B7FA2606 Lexmark E360dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1526, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 prn-e260-03 Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1527, "device_type": "printer", "brand": "dell", "product": "h625cdw", "banner": "220 Dell Color MFP H625cdw\r\n"}
+{"id": 1528, "device_type": "printer", "brand": "dell", "product": "c2665dnf", "banner": "220 Dell C2665dnf Color MFP\r\n"}
+{"id": 1529, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B7486F74 Lexmark E360dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1530, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 ms510-b342 Lexmark MS510dn FTP Server NH71.CY.N025 ready.\r\n"}
+{"id": 1531, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 ET0021B789AFCE Lexmark CX510de FTP Server NH.GM.N436 ready.\r\n"}
+{"id": 1532, "device_type": "printer", "brand": "xerox", "product": "6600dn", "banner": "220 Xerox Phaser 6600DN\r\n"}
+{"id": 1533, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7F50CA9 Lexmark MS610dn FTP Server NH63.CY.N638 ready.\r\n"}
+{"id": 1534, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B775BFAC Lexmark MS610dn FTP Server NH7.CY.N022 ready.\r\n"}
+{"id": 1535, "device_type": "printer", "brand": "lexmark", "product": "ms415dn", "banner": "220 eidigitlex Lexmark MS415dn FTP Server NF5.TL.N543 ready.\r\n"}
+{"id": 1536, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.59) ready.\r\n"}
+{"id": 1537, "device_type": "printer", "brand": "oki", "product": "lan7130e", "banner": "220 EthernetBoard LAN7130E Ver 1.0.6 FTP server.\r\n"}
+{"id": 1538, "device_type": "printer", "brand": "xerox", "product": "cm305", "banner": "220 FUJI XEROX DocuPrint CM305 df\u0003\n"}
+{"id": 1539, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 lexmark Lexmark CX510de FTP Server NH5.GM.N543 ready.\r\n"}
+{"id": 1540, "device_type": "printer", "brand": "xerox", "product": "c525", "banner": "220 FUJI XEROX DocuPrint C525 A-AP\r\n"}
+{"id": 1541, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B762A79D Lexmark E360dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1542, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7D5509F Lexmark MX310dn FTP Server NH5.SB.N543 ready.\r\n"}
+{"id": 1543, "device_type": "printer", "brand": "dell", "product": "c3760dn", "banner": "220 Dell C3760dn Color Laser\r\n"}
+{"id": 1544, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 ET0021B72CC7DC Lexmark X264dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1545, "device_type": "printer", "brand": "minolta", "product": "3301p", "banner": "220 BH3301PCDC757 KONICA MINOLTA bizhub 3301P FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1546, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.27.1) ready.\r\n"}
+{"id": 1547, "device_type": "printer", "brand": "xerox", "product": "cm305", "banner": "220 FUJI XEROX DocuPrint CM305 df\u0001\n"}
+{"id": 1548, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004ex FTP server (15.75) ready.\r\n"}
+{"id": 1549, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 613Printer Lexmark E260dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1550, "device_type": "printer", "brand": "xerox", "product": "6600n", "banner": "220 Xerox Phaser 6600N\r\n"}
+{"id": 1551, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504ex FTP server (15.62) ready.\r\n"}
+{"id": 1552, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B7486C3E Lexmark E260dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1553, "device_type": "printer", "brand": "lexmark", "product": "e460dn", "banner": "220 ET0021B7B02E5F Lexmark E460dn FTP Server NR.APS.N368c ready.\r\n"}
+{"id": 1554, "device_type": "printer", "brand": "lexmark", "product": "t630", "banner": "220 LXK2B93BC Lexmark T630 FTP Server 55.10.19 ready.\r\n"}
+{"id": 1555, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B75182A8 Lexmark MS610dn FTP Server NH71.CY.N025 ready.\r\n"}
+{"id": 1556, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 ET0021B72A355F Lexmark X264dn FTP Server NR.APS.N469 ready.\r\n"}
+{"id": 1557, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B77EA7D0 Lexmark MX310dn FTP Server NH.SB.N328 ready.\r\n"}
+{"id": 1558, "device_type": "printer", "brand": "minolta", "product": "3301p", "banner": "220 BH3301P756923 KONICA MINOLTA bizhub 3301P FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1559, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET000400968153 Lexmark T644 FTP Server NS.NP.N219 ready.\r\n"}
+{"id": 1560, "device_type": "printer", "brand": "dell", "product": "h815dw", "banner": "220 Dell MFP H815dw\r\n"}
+{"id": 1561, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B79DB871 Lexmark MX310dn FTP Server NH63.SB.N638 ready.\r\n"}
+{"id": 1562, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7335257 Lexmark MX310dn FTP Server NH63.SB.N639 ready.\r\n"}
+{"id": 1563, "device_type": "printer", "brand": "lexmark", "product": "cx310", "banner": "220 ET0021B789339E Lexmark CX310n FTP Server NH61.GM.N634 ready.\r\n"}
+{"id": 1564, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 ET0021B7539D30 Lexmark CS410dn FTP Server NH63.VY.N639 ready.\r\n"}
+{"id": 1565, "device_type": "Printer", "brand": "xerox", "product": "cp315", "banner": "220 FUJI XEROX DocuPrint CP315/318 dw\r\n"}
+{"id": 1566, "device_type": "printer", "brand": "lexmark", "product": "mx710", "banner": "220 ET0021B76E88C6 Lexmark MX710 FTP Server NW2.TU.N231 ready.\r\n"}
+{"id": 1567, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 hatprinter Lexmark MS610dn FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1568, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET000400A563C4 Lexmark T644 FTP Server NS.NP.N219 ready.\r\n"}
+{"id": 1569, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B7CADA69 Lexmark E360dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1570, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B740E58F Lexmark E260dn FTP Server NL.APS.N213e ready.\r\n"}
+{"id": 1571, "device_type": "printer", "brand": "ricoh", "product": "c2003", "banner": "220 RICOH MP C2003Z FTP server (12.94) ready.\r\n"}
+{"id": 1572, "device_type": "printer", "brand": "lexmark", "product": "t652", "banner": "220 ET0021B7CAAE5E Lexmark T652 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1573, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 ET0021B72CE775 Lexmark X264dn FTP Server NR.APS.N469 ready.\r\n"}
+{"id": 1574, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.31) ready.\r\n"}
+{"id": 1575, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.60) ready.\r\n"}
+{"id": 1576, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 ET0021B77BEAFB Lexmark MS610de FTP Server NH72.CY.N030 ready.\r\n"}
+{"id": 1577, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 ET0021B7F8DE24 Lexmark X264dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1578, "device_type": "printer", "brand": "lexmark", "product": "ms415dn", "banner": "220 ET0021B71DC646 Lexmark MS415dn FTP Server NF5.TL.N543 ready.\r\n"}
+{"id": 1579, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE784A Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1580, "device_type": "printer", "brand": "lexmark", "product": "x734de", "banner": "220 ET0021B7A209C0 Lexmark X734de FTP Server NR.APS.N833 ready.\r\n"}
+{"id": 1581, "device_type": "printer", "brand": "lexmark", "product": "t654", "banner": "220 ET0021B75AE8AE Lexmark T654 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1582, "device_type": "printer", "brand": "dell", "product": "h825cdw", "banner": "220 Dell Color MFP H825cdw\r\n"}
+{"id": 1583, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 ET0021B76D06A1 Lexmark CS410dn FTP Server NH63.VY.N638 ready.\r\n"}
+{"id": 1584, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7C9B184 Lexmark MS610dn FTP Server NH73.CY.N034 ready.\r\n"}
+{"id": 1585, "device_type": "printer", "brand": "lexmark", "product": "t652", "banner": "220 ET0021B7C0F4B3 Lexmark T652 FTP Server NR.APS.N308a ready.\r\n"}
+{"id": 1586, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004ex FTP server (15.66) ready.\r\n"}
+{"id": 1587, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 GMANPRN1 Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1588, "device_type": "printer", "brand": "lexmark", "product": "c544", "banner": "220 ET0021B7D0BD68 Lexmark C544 FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1589, "device_type": "printer", "brand": "minolta", "product": "3300p", "banner": "220 ops09822 KONICA MINOLTA bizhub 3300P FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1590, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 ET0021B70B417E Lexmark CS410dn FTP Server NH63.VY.N640 ready.\r\n"}
+{"id": 1591, "device_type": "printer", "brand": "lexmark", "product": "t654", "banner": "220 dhcppc12 Lexmark T654 FTP Server NR.APS.N644 ready.\r\n"}
+{"id": 1592, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B759C25F Lexmark MS312dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1593, "device_type": "printer", "brand": "ricoh", "product": "c2800", "banner": "220 RICOH imagio MP C2800 FTP server (8.33) ready.\r\n"}
+{"id": 1594, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B797E95E Lexmark XC4140 FTP Server CXTAT.053.023 ready.\r\n"}
+{"id": 1595, "device_type": "printer", "brand": "lexmark", "product": "c925", "banner": "220 ET0021B755488A Lexmark C925 FTP Server NH.HS40.N440 ready.\r\n"}
+{"id": 1596, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B781DD9E Lexmark MX310dn FTP Server NH.SB.N328 ready.\r\n"}
+{"id": 1597, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B77BCCB1 Lexmark MS610dn FTP Server NH63.CY.N640 ready.\r\n"}
+{"id": 1598, "device_type": "printer", "brand": "dell", "product": "s2815dn", "banner": "220 Dell MFP S2815dn\r\n"}
+{"id": 1599, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE844C Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1600, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504 FTP server (15.60) ready.\r\n"}
+{"id": 1601, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE0489 Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1602, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.51) ready.\r\n"}
+{"id": 1603, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 ET0021B7E39FA9 Lexmark MS510dn FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1604, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 hcsch-lexmark Lexmark CS510de FTP Server NH7.VY.N022 ready.\r\n"}
+{"id": 1605, "device_type": "printer", "brand": "kyocera", "product": "m6530cdn", "banner": "220 ECOSYS M6530cdn FTP server\r\n"}
+{"id": 1606, "device_type": "printer", "brand": "lexmark", "product": "t640", "banner": "220 ET000400D5A590 Lexmark T640 FTP Server NS.NP.N118 ready.\r\n"}
+{"id": 1607, "device_type": "printer", "brand": "ricoh", "product": "c3504", "banner": "220 RICOH MP C3504ex FTP server (15.65) ready.\r\n"}
+{"id": 1608, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 lexmark-bie Lexmark MS610de FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1609, "device_type": "printer", "brand": "ricoh", "product": "c4002", "banner": "220 RICOH imagio MP C4002 FTP server (11.102) ready.\r\n"}
+{"id": 1610, "device_type": "printer", "brand": "lexmark", "product": "c950", "banner": "220 ET0021B70362A2 Lexmark C950 FTP Server NH.HS40.N440 ready.\r\n"}
+{"id": 1611, "device_type": "printer", "brand": "lexmark", "product": "t630", "banner": "220 WILZA Lexmark T630 FTP Server 55.10.19 ready.\r\n"}
+{"id": 1612, "device_type": "printer", "brand": "lexmark", "product": "c925", "banner": "220 MIX-COLIBRI Lexmark C925 FTP Server NH.HS60.N615 ready.\r\n"}
+{"id": 1613, "device_type": "printer", "brand": "dell", "product": "c3765dnf", "banner": "220 Dell C3765dnf Color MFP\r\n"}
+{"id": 1614, "device_type": "printer", "brand": "lexmark", "product": "c950", "banner": "220 ET0021B7C9BC3B Lexmark C950 FTP Server NH.HS40.N440 ready.\r\n"}
+{"id": 1615, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 mat0 Lexmark MS610dn FTP Server NH5.CY.N595 ready.\r\n"}
+{"id": 1616, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.20) ready.\r\n"}
+{"id": 1617, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B71F953C Lexmark XC4140 FTP Server CXTAT.070.045 ready.\r\n"}
+{"id": 1618, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 ET0021B7F16C51 Lexmark MS510dn FTP Server NH5.CY.N582 ready.\r\n"}
+{"id": 1619, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 Studio20 Lexmark MX310dn FTP Server NH.SB.N439 ready.\r\n"}
+{"id": 1620, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 ET0021B78EED9E Lexmark CX510de FTP Server NW2.GM.N231 ready.\r\n"}
+{"id": 1621, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B7A9C96-2 Lexmark MS312dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1622, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.57) ready.\r\n"}
+{"id": 1623, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.58) ready.\r\n"}
+{"id": 1624, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B7C58531 Lexmark MS312dn FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1625, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.30) ready.\r\n"}
+{"id": 1626, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B775DB19 Lexmark MS610dn FTP Server NH5.CY.N595 ready.\r\n"}
+{"id": 1627, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.21) ready.\r\n"}
+{"id": 1628, "device_type": "printer", "brand": "lexmark", "product": "cx310", "banner": "220 ET0021B701243B Lexmark CX310dn FTP Server NH.GM.N328 ready.\r\n"}
+{"id": 1629, "device_type": "printer", "brand": "ricoh", "product": "c307", "banner": "220 RICOH MP C307 FTP server (16.52) ready.\r\n"}
+{"id": 1630, "device_type": "printer", "brand": "lexmark", "product": "ms415dn", "banner": "220 ei402lex Lexmark MS415dn FTP Server NF73.TL.N034 ready.\r\n"}
+{"id": 1631, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 ET0021B779A7C0 Lexmark CS410dn FTP Server NH5.VY.N543 ready.\r\n"}
+{"id": 1632, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.24) ready.\r\n"}
+{"id": 1633, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B7E04C26 Lexmark E260dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1634, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B7C37161 Lexmark MS312dn FTP Server NH7.CY.N022 ready.\r\n"}
+{"id": 1635, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7E5ADD0 Lexmark MX310dn FTP Server NH5.SB.N543 ready.\r\n"}
+{"id": 1636, "device_type": "printer", "brand": "lexmark", "product": "xc4150", "banner": "220 HRA-LEXMARK Lexmark XC4150 FTP Server CXTAT.041.090 ready.\r\n"}
+{"id": 1637, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 ET0021B7892F39 Lexmark CX510de FTP Server NH.GM.N436 ready.\r\n"}
+{"id": 1638, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004 FTP server (15.72) ready.\r\n"}
+{"id": 1639, "device_type": "printer", "brand": "ricoh", "product": "c300", "banner": "220 SHARP MX-C300P Ver 01.03.Y1.00 FTP server.\r\n"}
+{"id": 1640, "device_type": "printer", "brand": "lexmark", "product": "x954", "banner": "220 SWKSTPRN02 Lexmark X954 FTP Server NH.HS23.N278 ready.\r\n"}
+{"id": 1641, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 507-A Lexmark E260dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1642, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 CEAFIR-2 Lexmark MS610de FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1643, "device_type": "printer", "brand": "ricoh", "product": "c3504", "banner": "220 RICOH MP C3504ex FTP server (15.62) ready.\r\n"}
+{"id": 1644, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B78BB52E Lexmark XC4140 FTP Server ATL.033.097 ready.\r\n"}
+{"id": 1645, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 spaceprinter Lexmark MX310dn FTP Server NH.SB.N439 ready.\r\n"}
+{"id": 1646, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B7629817 Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1647, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 Chataigneraie Lexmark MX310dn FTP Server NH63.SB.N639 ready.\r\n"}
+{"id": 1648, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 R224-LEXMS312 Lexmark MS312dn FTP Server NH73.CY.N034 ready.\r\n"}
+{"id": 1649, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 ET0021B7D905D3 Lexmark MS510dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 1650, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 ET0021B7A51A50 Lexmark CS410dn FTP Server NH5.VY.N543 ready.\r\n"}
+{"id": 1651, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504 FTP server (15.72) ready.\r\n"}
+{"id": 1652, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7BA7D0C Lexmark MX310dn FTP Server NW1.SB.N131t ready.\r\n"}
+{"id": 1653, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 LEXMARK-SINE Lexmark MX310dn FTP Server NH5.SB.N543 ready.\r\n"}
+{"id": 1654, "device_type": "printer", "brand": "lexmark", "product": "c4150", "banner": "220 WashingtonLibLabLexmark Lexmark C4150 FTP Server CSTAT.052.024 ready.\r\n"}
+{"id": 1655, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FED887 Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1656, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 ET0021B791BF9E Lexmark MS610de FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1657, "device_type": "printer", "brand": "lexmark", "product": "cx310", "banner": "220 ET0021B73D03B5 Lexmark CX310n FTP Server NH61.GM.N634 ready.\r\n"}
+{"id": 1658, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE04B5 Lexmark MS610dn FTP Server NH63.CY.N638 ready.\r\n"}
+{"id": 1659, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004ex FTP server (15.67) ready.\r\n"}
+{"id": 1660, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B77A5F88 Lexmark E360dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1661, "device_type": "printer", "brand": "lexmark", "product": "x954", "banner": "220 Lexmark-Colour Lexmark X954 FTP Server NH.HS42.N570 ready.\r\n"}
+{"id": 1662, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7769818 Lexmark MX310dn FTP Server NW1.SB.N131t ready.\r\n"}
+{"id": 1663, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 ET0021B76B73D3 Lexmark CS510de FTP Server NH63.VY.N640 ready.\r\n"}
+{"id": 1664, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 chi-langham-m1 Lexmark CX510de FTP Server NW1.GM.N132 ready.\r\n"}
+{"id": 1665, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504ex FTP server (15.69) ready.\r\n"}
+{"id": 1666, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 ET0021B7D38479 Lexmark CX510de FTP Server NH63.GM.N639 ready.\r\n"}
+{"id": 1667, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7A7F9C6 Lexmark MX310dn FTP Server NH73.SB.N034 ready.\r\n"}
+{"id": 1668, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004 FTP server (15.76) ready.\r\n"}
+{"id": 1669, "device_type": "printer", "brand": "xerox", "product": "c525", "banner": "220 FS-C5250DN FTP server\r\n"}
+{"id": 1670, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 ET0021B7895D66 Lexmark CX510de FTP Server NH.GM.N436 ready.\r\n"}
+{"id": 1671, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 ET0021B7595939 Lexmark MS510dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1672, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE78EF Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1673, "device_type": "printer", "brand": "ricoh", "product": "c232dn", "banner": "220 Aficio SP C232DN FTP server (FTPD version 1.0) ready.\r\n"}
+{"id": 1674, "device_type": "printer", "brand": "lexmark", "product": "t652", "banner": "220 ET0021B706BD52 Lexmark T652 FTP Server NR.APS.N632 ready.\r\n"}
+{"id": 1675, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.32.1) ready.\r\n"}
+{"id": 1676, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 impi010b Lexmark MS510dn FTP Server NH61.CY.N634 ready.\r\n"}
+{"id": 1677, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B761B341 Lexmark MX310dn FTP Server NH63.SB.N638 ready.\r\n"}
+{"id": 1678, "device_type": "printer", "brand": "lexmark", "product": "e250dn", "banner": "220 ET000400A5CDE6 Lexmark E250dn FTP Server NM.NA.N099 ready.\r\n"}
+{"id": 1679, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 ET0021B7C1B38E Lexmark MS610de FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1680, "device_type": "printer", "brand": "oki", "product": "lan7130e", "banner": "220 EthernetBoard LAN7130E Ver 1.0.5 FTP server.\r\n"}
+{"id": 1681, "device_type": "printer", "brand": "xerox", "product": "cm305", "banner": "220 FUJI XEROX DocuPrint CM305 df\u0002\n"}
+{"id": 1682, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE00C1 Lexmark MS610dn FTP Server NH.CY.N328 ready.\r\n"}
+{"id": 1683, "device_type": "printer", "brand": "lexmark", "product": "t640", "banner": "220 DEP-T640 Lexmark T640 FTP Server NS.NP.N118 ready.\r\n"}
+{"id": 1684, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 ET0021B72C7BE8 Lexmark X264dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1685, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 SACL-CC0105-P-M Lexmark XC4140 FTP Server CXTAT.040.087 ready.\r\n"}
+{"id": 1686, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004 FTP server (15.60) ready.\r\n"}
+{"id": 1687, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B73D4163 Lexmark XC4140 FTP Server CXTAT.053.023 ready.\r\n"}
+{"id": 1688, "device_type": "printer", "brand": "lexmark", "product": "x954", "banner": "220 ET0021B75EC91A Lexmark X954 FTP Server NH.HS41.N449 ready.\r\n"}
+{"id": 1689, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET000400E972B9 Lexmark T644 FTP Server NS.NP.N219 ready.\r\n"}
+{"id": 1690, "device_type": "printer", "brand": "lexmark", "product": "ms310dn", "banner": "220 ET0021B7EE2B72 Lexmark MS310dn FTP Server NW2.CY.N235 ready.\r\n"}
+{"id": 1691, "device_type": "printer", "brand": "lexmark", "product": "x734de", "banner": "220 ET0021B7A2F157 Lexmark X734de FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1692, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 Noirmoutier Lexmark MX310dn FTP Server NW1.SB.N134 ready.\r\n"}
+{"id": 1693, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET000400E927E7 Lexmark T644 FTP Server NS.NP.N219 ready.\r\n"}
+{"id": 1694, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 ET0021B7517A66 Lexmark MS610de FTP Server NH73.CY.N034 ready.\r\n"}
+{"id": 1695, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B747C939 Lexmark XC4140 FTP Server CXTAT.040.087 ready.\r\n"}
+{"id": 1696, "device_type": "printer", "brand": "minolta", "product": "4000p", "banner": "220 ET0021B77D535E KONICA MINOLTA bizhub 4000P FTP Server NH61.CY.N634 ready.\r\n"}
+{"id": 1697, "device_type": "printer", "brand": "lexmark", "product": "ms417dn", "banner": "220 ET0021B77BB7F4 Lexmark MS417dn FTP Server NF72.TL.N030 ready.\r\n"}
+{"id": 1698, "device_type": "printer", "brand": "lexmark", "product": "pro800-pro900", "banner": "220 ET002000816DC6 Pro800-Pro900 Series FTP Server ready.\r\n"}
+{"id": 1699, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE0455 Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1700, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504 FTP server (15.76) ready.\r\n"}
+{"id": 1701, "device_type": "printer", "brand": "lexmark", "product": "ms310dn", "banner": "220 ET0021B7C995F-2 Lexmark MS310dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1702, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7419C9E Lexmark MX310dn FTP Server NH.SB.N331 ready.\r\n"}
+{"id": 1703, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B72998D0 Lexmark MS610dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1704, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 matfizpc-247-17 Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1705, "device_type": "printer", "brand": "xerox", "product": "6500n", "banner": "220 SHARP MX-6500N Ver 01.06.00.00.114 FTP server.\r\n"}
+{"id": 1706, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B766B33A Lexmark MX310dn FTP Server NH7.SB.N022 ready.\r\n"}
+{"id": 1707, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 stampante-ant Lexmark MX310dn FTP Server NH5.SB.N543 ready.\r\n"}
+{"id": 1708, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 ET0021B789CF40 Lexmark CS510de FTP Server NH73.VY.N034 ready.\r\n"}
+{"id": 1709, "device_type": "printer", "brand": "ricoh", "product": "c305", "banner": "220 NRG MP C305 FTP server (12.34) ready.\r\n"}
+{"id": 1710, "device_type": "printer", "brand": "minolta", "product": "4000p", "banner": "220 BH4000P0D434D KONICA MINOLTA bizhub 4000P FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1711, "device_type": "printer", "brand": "cnet", "product": "mx-m450n", "banner": "220 SHARP MX-M450N Ver 01.04.00.0g FTP server.\r\n"}
+{"id": 1712, "device_type": "printer", "brand": "lexmark", "product": "cx310", "banner": "220 lexmarklibrary Lexmark CX310n FTP Server NW2.GM.N231 ready.\r\n"}
+{"id": 1713, "device_type": "printer", "brand": "lexmark", "product": "ms510dn", "banner": "220 F10-131 Lexmark MS510dn FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1714, "device_type": "printer", "brand": "ricoh", "product": "c6004", "banner": "220 RICOH MP C6004 FTP server (15.59) ready.\r\n"}
+{"id": 1715, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 ET0021B7875550 Lexmark CS510de FTP Server NH63.VY.N640 ready.\r\n"}
+{"id": 1716, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B71D61DC Lexmark MS610dn FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1717, "device_type": "printer", "brand": "minolta", "product": "4000p", "banner": "220 ops09884 KONICA MINOLTA bizhub 4000P FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1718, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET000400915944 Lexmark T644 FTP Server NS.NP.N219 ready.\r\n"}
+{"id": 1719, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FEA832 Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1720, "device_type": "printer", "brand": "lexmark", "product": "c950", "banner": "220 ET0021B7FCAC1B Lexmark C950 FTP Server NH.HS60.N618 ready.\r\n"}
+{"id": 1721, "device_type": "printer", "brand": "lexmark", "product": "ms310dn", "banner": "220 ET0021B7B61E36 Lexmark MS310dn FTP Server NW1.CY.N151 ready.\r\n"}
+{"id": 1722, "device_type": "printer", "brand": "lexmark", "product": "x950", "banner": "220 COIF-MIC Lexmark X950 FTP Server NH.HS30.N304 ready.\r\n"}
+{"id": 1723, "device_type": "printer", "brand": "lexmark", "product": "t632", "banner": "220 LXK2C3311 Lexmark T632 FTP Server 55.10.19 ready.\r\n"}
+{"id": 1724, "device_type": "printer", "brand": "ricoh", "product": "c306", "banner": "220 RICOH MP C306Z FTP server (15.28) ready.\r\n"}
+{"id": 1725, "device_type": "printer", "brand": "lexmark", "product": "t654", "banner": "220 ET0021B79C6538 Lexmark T654 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1726, "device_type": "printer", "brand": "lexmark", "product": "t654", "banner": "220 ET0021B7ECB7F8 Lexmark T654 FTP Server NR.APS.N644 ready.\r\n"}
+{"id": 1727, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B7D3C62E Lexmark MS312dn FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1728, "device_type": "printer", "brand": "lexmark", "product": "t632", "banner": "220 MHXANORGANOSH Lexmark T632 FTP Server 55.10.19 ready.\r\n"}
+{"id": 1729, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 LEX-10-Golm Lexmark CS410dn FTP Server NH63.VY.N639 ready.\r\n"}
+{"id": 1730, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504ex FTP server (15.71) ready.\r\n"}
+{"id": 1731, "device_type": "printer", "brand": "lexmark", "product": "ms310dn", "banner": "220 PRINTER-SC Lexmark MS310dn FTP Server NW1.CY.N151 ready.\r\n"}
+{"id": 1732, "device_type": "printer", "brand": "lexmark", "product": "ms417dn", "banner": "220 ET0021B733BED6 Lexmark MS417dn FTP Server NF71.TL.N206 ready.\r\n"}
+{"id": 1733, "device_type": "printer", "brand": "lexmark", "product": "cx310", "banner": "220 unina Lexmark CX310dn FTP Server NH5.GM.N543 ready.\r\n"}
+{"id": 1734, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 ET0021B7913F26 Lexmark MS610de FTP Server NH61.CY.N634 ready.\r\n"}
+{"id": 1735, "device_type": "printer", "brand": "lexmark", "product": "c925", "banner": "220 ET0021B7558841 Lexmark C925 FTP Server NH.HS60.N617 ready.\r\n"}
+{"id": 1736, "device_type": "printer", "brand": "lexmark", "product": "cs410dn", "banner": "220 popart Lexmark CS410dn FTP Server NW1.VY.N152 ready.\r\n"}
+{"id": 1737, "device_type": "printer", "brand": "lexmark", "product": "c950", "banner": "220 ET0021B7C96C57 Lexmark C950 FTP Server NH.HS40.N440 ready.\r\n"}
+{"id": 1738, "device_type": "printer", "brand": "ricoh", "product": "c2504", "banner": "220 RICOH MP C2504ex FTP server (15.75) ready.\r\n"}
+{"id": 1739, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B74B0629 Lexmark MS312dn FTP Server NH63.CY.N639 ready.\r\n"}
+{"id": 1740, "device_type": "printer", "brand": "lexmark", "product": "ms310dn", "banner": "220 ET0021B7B6CE24 Lexmark MS310dn FTP Server NW1.CY.N151 ready.\r\n"}
+{"id": 1741, "device_type": "printer", "brand": "lexmark", "product": "e460dn", "banner": "220 ET0021B7AC31F4 Lexmark E460dn FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1742, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 ET0021B7999774 Lexmark MS312dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1743, "device_type": "printer", "brand": "lexmark", "product": "t650", "banner": "220 ET0021B7D0DE7F Lexmark T650 FTP Server NR.APS.N644 ready.\r\n"}
+{"id": 1744, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B7489BFF Lexmark E260dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1745, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B78B0D64 Lexmark XC4140 FTP Server CXTAT.052.214 ready.\r\n"}
+{"id": 1746, "device_type": "printer", "brand": "lexmark", "product": "x544", "banner": "220 ET0021B7B8DDCE Lexmark X544 FTP Server NR.APS.N645f ready.\r\n"}
+{"id": 1747, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B71FAD91 Lexmark XC4140 FTP Server CXTAT.053.013 ready.\r\n"}
+{"id": 1748, "device_type": "printer", "brand": "dell", "product": "s2825cdn", "banner": "220 Dell Color MFP S2825cdn\r\n"}
+{"id": 1749, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7F386DC Lexmark MX310dn FTP Server NH63.SB.N639 ready.\r\n"}
+{"id": 1750, "device_type": "printer", "brand": "lexmark", "product": "t652", "banner": "220 ET0021B70254DA Lexmark T652 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1751, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7CE7241 Lexmark MX310dn FTP Server NH.SB.N328 ready.\r\n"}
+{"id": 1752, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B71090A7 Lexmark E260dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1753, "device_type": "printer", "brand": "lexmark", "product": "cx310", "banner": "220 ET0021B70E2AC4 Lexmark CX310n FTP Server NH.GM.N439 ready.\r\n"}
+{"id": 1754, "device_type": "printer", "brand": "lexmark", "product": "c4150", "banner": "220 LHS-DECA-Lexmark Lexmark C4150 FTP Server CSTAT.052.024 ready.\r\n"}
+{"id": 1755, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B79E6A66 Lexmark MS610dn FTP Server NH61.CY.N634 ready.\r\n"}
+{"id": 1756, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 ET0021B7493CCE Lexmark CS510de FTP Server NH41.VY.N454 ready.\r\n"}
+{"id": 1757, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B79986B3 Lexmark MX310dn FTP Server NH41.SB.N454 ready.\r\n"}
+{"id": 1758, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7C7B089 Lexmark MS610dn FTP Server NH63.CY.N640 ready.\r\n"}
+{"id": 1759, "device_type": "printer", "brand": "minolta", "product": "3301p", "banner": "220 BH3301PD5E205 KONICA MINOLTA bizhub 3301P FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1760, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B7C01954 Lexmark E360dn FTP Server NL.APS.N213e ready.\r\n"}
+{"id": 1761, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B7246A9F Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1762, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 Lexmark1 Lexmark CS510de FTP Server NH63.VY.N640 ready.\r\n"}
+{"id": 1763, "device_type": "printer", "brand": "lexmark", "product": "e360dn", "banner": "220 ET0021B778D9DB Lexmark E360dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1764, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 Lexmark2211 Lexmark T644 FTP Server NS.NP.N118 ready.\r\n"}
+{"id": 1765, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B79D44F9 Lexmark MX310dn FTP Server NH5.SB.N543 ready.\r\n"}
+{"id": 1766, "device_type": "printer", "brand": "lexmark", "product": "x560n", "banner": "220 Lexmark X560n\r\n"}
+{"id": 1767, "device_type": "printer", "brand": "lexmark", "product": "pro800-pro900", "banner": "220 ET0020007E5045 Pro800-Pro900 Series FTP Server ready.\r\n"}
+{"id": 1768, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 ET0021B7498665 Lexmark CS510de FTP Server NH41.VY.N454 ready.\r\n"}
+{"id": 1769, "device_type": "Printer", "brand": "lexmark", "product": "cx510de", "banner": "220 CEAFIR Lexmark CX510de FTP Server NH7.GM.N022 ready.\r\n"}
+{"id": 1770, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 Yeu Lexmark MX310dn FTP Server NH.SB.N328 ready.\r\n"}
+{"id": 1771, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 Infolab-Printer Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1772, "device_type": "printer", "brand": "lexmark", "product": "e450dn", "banner": "220 calafuria Lexmark E450dn FTP Server NM.NA.N098 ready.\r\n"}
+{"id": 1773, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 lexmark Lexmark E260dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1774, "device_type": "printer", "brand": "lexmark", "product": "ms610de", "banner": "220 ET0021B791FF78 Lexmark MS610de FTP Server NH.CY.N331 ready.\r\n"}
+{"id": 1775, "device_type": "printer", "brand": "lexmark", "product": "pro800-pro900", "banner": "220 pro905-b14 Pro800-Pro900 Series FTP Server ready.\r\n"}
+{"id": 1776, "device_type": "printer", "brand": "lexmark", "product": "e460dn", "banner": "220 FUJ26229 Lexmark E460dn FTP Server NJ.APS.N254d ready.\r\n"}
+{"id": 1777, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 PRINTERLEX Lexmark X264dn FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1778, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B7034D03 Lexmark MX310dn FTP Server NH61.SB.N634 ready.\r\n"}
+{"id": 1779, "device_type": "printer", "brand": "lexmark", "product": "e250dn", "banner": "220 Printer-604 Lexmark E250dn FTP Server NM.NA.N099 ready.\r\n"}
+{"id": 1780, "device_type": "printer", "brand": "lexmark", "product": "ms312dn", "banner": "220 MarketingHead Lexmark MS312dn FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1781, "device_type": "printer", "brand": "lexmark", "product": "c925", "banner": "220 ET0021B73274FB Lexmark C925 FTP Server NH.HS30.N304 ready.\r\n"}
+{"id": 1782, "device_type": "printer", "brand": "lexmark", "product": "t644", "banner": "220 ET000400D5B529 Lexmark T644 FTP Server NS.NP.N118 ready.\r\n"}
+{"id": 1783, "device_type": "printer", "brand": "lexmark", "product": "t640", "banner": "220 STREDES-IMP Lexmark T640 FTP Server NS.NP.N219 ready.\r\n"}
+{"id": 1784, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7CD36DB Lexmark MS610dn FTP Server NH5.CY.N543 ready.\r\n"}
+{"id": 1785, "device_type": "printer", "brand": "lexmark", "product": "t654", "banner": "220 ET0021B7842D30 Lexmark T654 FTP Server NR.APS.N644 ready.\r\n"}
+{"id": 1786, "device_type": "printer", "brand": "lexmark", "product": "c950", "banner": "220 ET0021B7E55647 Lexmark C950 FTP Server NH.HS40.N440 ready.\r\n"}
+{"id": 1787, "device_type": "printer", "brand": "lexmark", "product": "e460dn", "banner": "220 ET0021B7DCC291 Lexmark E460dn FTP Server NR.APS.N644 ready.\r\n"}
+{"id": 1788, "device_type": "printer", "brand": "lexmark", "product": "x543", "banner": "220 ET0021B7AA9A6A Lexmark X543 FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 1789, "device_type": "printer", "brand": "lexmark", "product": "c540", "banner": "220 FS-C5400DNH FTP server\r\n"}
+{"id": 1790, "device_type": "printer", "brand": "lexmark", "product": "t650", "banner": "220 ET0021B79C4D80 Lexmark T650 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1791, "device_type": "printer", "brand": "lexmark", "product": "cs510de", "banner": "220 kithara Lexmark CS510de FTP Server NH7.VY.N022 ready.\r\n"}
+{"id": 1792, "device_type": "printer", "brand": "lexmark", "product": "pro800-pro900", "banner": "220 GVLexPol Pro800-Pro900 Series FTP Server ready.\r\n"}
+{"id": 1793, "device_type": "printer", "brand": "lexmark", "product": "t650", "banner": "220 ET0021B780AE7D Lexmark T650 FTP Server NJ.APS.N239c ready.\r\n"}
+{"id": 1794, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE44DE Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1795, "device_type": "printer", "brand": "lexmark", "product": "c950", "banner": "220 ET0021B70352C4 Lexmark C950 FTP Server NH.HS60.N618 ready.\r\n"}
+{"id": 1796, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE842C Lexmark MS610dn FTP Server NH.CY.N436 ready.\r\n"}
+{"id": 1797, "device_type": "printer", "brand": "lexmark", "product": "t652", "banner": "220 ET0021B704213C Lexmark T652 FTP Server NR.APS.N368cWS ready.\r\n"}
+{"id": 1798, "device_type": "printer", "brand": "lexmark", "product": "x544", "banner": "220 ET0021B7D0E555 Lexmark X544 FTP Server NR.APS.N337 ready.\r\n"}
+{"id": 1799, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 geo-noc-e260dn Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1800, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B778906B Lexmark E260dn FTP Server NR.APS.N434 ready.\r\n"}
+{"id": 1801, "device_type": "printer", "brand": "lexmark", "product": "ms610dn", "banner": "220 ET0021B7FE6434 Lexmark MS610dn FTP Server NH.CY.N439 ready.\r\n"}
+{"id": 1802, "device_type": "printer", "brand": "lexmark", "product": "ms415dn", "banner": "220 lexmark Lexmark MS415dn FTP Server NF5.TL.N543 ready.\r\n"}
+{"id": 1803, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B77638C8 Lexmark MX310dn FTP Server NW1.SB.N131t ready.\r\n"}
+{"id": 1804, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B78BEDA7 Lexmark XC4140 FTP Server ATL.033.097 ready.\r\n"}
+{"id": 1805, "device_type": "printer", "brand": "lexmark", "product": "x264dn", "banner": "220 LexErapi Lexmark X264dn FTP Server NR.APS.N469 ready.\r\n"}
+{"id": 1806, "device_type": "printer", "brand": "lexmark", "product": "xc4140", "banner": "220 ET0021B75BFDDC Lexmark XC4140 FTP Server CXTAT.052.024 ready.\r\n"}
+{"id": 1807, "device_type": "printer", "brand": "lexmark", "product": "mx310dn", "banner": "220 ET0021B761D7E2 Lexmark MX310dn FTP Server NH.SB.N331 ready.\r\n"}
+{"id": 1808, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 IRVINE-BIOS112 Lexmark E260dn FTP Server NR.APS.N434 ready.\r\n"}
+{"id": 1809, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B73083F5 Lexmark E260dn FTP Server NR.APS.N310 ready.\r\n"}
+{"id": 1810, "device_type": "printer", "brand": "lexmark", "product": "e260dn", "banner": "220 ET0021B75C0FC9 Lexmark E260dn FTP Server NR.APS.N449 ready.\r\n"}
+{"id": 1811, "device_type": "printer", "brand": "lexmark", "product": "t652", "banner": "220 ET0021B752E744 Lexmark T652 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 1812, "device_type": "printer", "brand": "lexmark", "product": "rc4", "banner": "220 RB1200 FTP server (MikroTik 6.43rc44) ready\r\n"}
+{"id": 1813, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <fdedc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1814, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <dbedc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1815, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <14edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1816, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <94edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1817, "device_type": "printer", "brand": "ricoh", "product": "c3003", "banner": "220 AXIS C3003-E Network Horn Speaker 1.20.1 (2015) ready.\r\n"}
+{"id": 1818, "device_type": "printer", "brand": "ricoh", "product": "c3003", "banner": "220 AXIS C3003-E Network Horn Speaker 1.25.1 (2016) ready.\r\n"}
+{"id": 1819, "device_type": "printer", "brand": "canon", "product": "s900", "banner": "220 VB-S900 FTP server ready.\r\n"}
+{"id": 1820, "device_type": "printer", "brand": "xerox", "product": "c1190", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C11901) [192.168.0.1] EUC-KR\r\n"}
+{"id": 1821, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <91edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1822, "device_type": "printer", "brand": "ricoh", "product": "c320", "banner": "220 Welcome to AC3200\r\n"}
+{"id": 1823, "device_type": "printer", "brand": "xerox", "product": "c2110", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C2110D) [192.168.0.1] UTF-8\r\n"}
+{"id": 1824, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <3edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1825, "device_type": "printer", "brand": "ricoh", "product": "c2011", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C20119) [192.168.0.1] UTF-8\r\n"}
+{"id": 1826, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <66edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1827, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <c0edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1828, "device_type": "printer", "brand": "lexmark", "product": "rc4", "banner": "220 rb751u-1 FTP server (MikroTik 6.0rc4) ready\r\n"}
+{"id": 1829, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <2aedc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1830, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <27edc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1831, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <6eedc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 1832, "device_type": "printer", "brand": "lexmark", "product": "c935", "banner": "220 <abedc935>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2001, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 BH3300P851A20 KONICA MINOLTA bizhub 3300P FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 2002, "device_type": "router", "brand": "mikrotik", "product": "a52", "banner": "220 Impresora5202 Lexmark XC9235 FTP Server CXTMH.041.090 ready.\r\n"}
+{"id": 2003, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B749D697 Lexmark CX510de FTP Server NH41.GM.N454 ready.\r\n"}
+{"id": 2004, "device_type": "router", "brand": "mikrotik", "product": "mp3", "banner": "220 SLM-VMP3-R305 Lexmark MS811 FTP Server NH.YS.N331 ready.\r\n"}
+{"id": 2005, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B751F12B Lexmark MS610dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 2006, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B749E65F Lexmark CX510de FTP Server NH41.GM.N454 ready.\r\n"}
+{"id": 2007, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B761A240 KONICA MINOLTA bizhub 3300P FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 2009, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B7395661 Lexmark MS312dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 2010, "device_type": "router", "brand": "mikrotik", "product": "b2b", "banner": "220 ET0021B744BADB InfoPrint 1872 FTP Server NR.APS.N447b2BM ready.\r\n"}
+{"id": 2011, "device_type": "router", "brand": "mikrotik", "product": "h61", "banner": "220 OPS09900 KONICA MINOLTA bizhub 3301P FTP Server NH61.CY.N634 ready.\r\n"}
+{"id": 2012, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B749B596 Lexmark MS312dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 2013, "device_type": "router", "brand": "netgear", "product": "x10", "banner": "220 Walnut-TX105 FTP Service (WSFTP Server Ver2.71.0.3).\r\n"}
+{"id": 2014, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B7E9D35D Lexmark MS810 FTP Server NH41.YS.N454 ready.\r\n"}
+{"id": 2015, "device_type": "router", "brand": "telenet", "product": "d01", "banner": "220 ET0021B76BBD01 Lexmark CX317dn FTP Server NH72.GM.N030 ready.\r\n"}
+{"id": 2016, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B7796E6F Lexmark CS310n FTP Server NH41.VY.N454 ready.\r\n"}
+{"id": 2017, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 ET0021B7E9D3C6 Lexmark MS810 FTP Server NH41.YS.N454 ready.\r\n"}
+{"id": 2018, "device_type": "router", "brand": "mikrotik", "product": "h61", "banner": "220 ET0021B76D36B4 TOSHIBA e-STUDIO305CS FTP Server NH61.GM.N634 ready.\r\n"}
+{"id": 2019, "device_type": "router", "brand": "mikrotik", "product": "h61", "banner": "220 BH3320059CB8 KONICA MINOLTA bizhub 3320 FTP Server NH61.SB.N634 ready.\r\n"}
+{"id": 2020, "device_type": "router", "brand": "mikrotik", "product": "a52", "banner": "220 ET0021B72A5288 Lexmark C748 FTP Server NHC.HSC.N260f ready.\r\n"}
+{"id": 2021, "device_type": "router", "brand": "mikrotik", "product": "nh4", "banner": "220 BH3300P85BA80 KONICA MINOLTA bizhub 3300P FTP Server NH41.CY.N454 ready.\r\n"}
+{"id": 2022, "device_type": "router", "brand": "asus", "product": "rt-ac68u", "banner": "220 Welcome to ASUS RT-AC68U FTP service.\r\n"}
+{"id": 2023, "device_type": "router", "brand": "asus", "product": "rt-ac66u", "banner": "220 Welcome to ASUS RT-AC66U_B1 FTP service.\r\n"}
+{"id": 2024, "device_type": "router", "brand": "asus", "product": "rt-ac88u", "banner": "220 Welcome to ASUS RT-AC88U FTP service.\r\n"}
+{"id": 2025, "device_type": "router", "brand": "asus", "product": "rt-ac55u", "banner": "220 Welcome to ASUS RT-AC55UHP FTP service.\r\n"}
+{"id": 2026, "device_type": "router", "brand": "dd-wrt", "product": "wndr3700v4", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNDR3700v4) [::ffff:219.77.125.108]\r\n"}
+{"id": 2027, "device_type": "router", "brand": "asus", "product": "rt-ac3200", "banner": "220 Welcome to ASUS RT-AC3200 FTP service.\r\n"}
+{"id": 2028, "device_type": "router", "brand": "asus", "product": "rt-n18u", "banner": "220 Welcome to ASUS RT-N18U FTP service.\r\n"}
+{"id": 2029, "device_type": "router", "brand": "asus", "product": "rt-ac58u", "banner": "220 Welcome to ASUS RT-AC58U FTP service.\r\n"}
+{"id": 2030, "device_type": "router", "brand": "asus", "product": "rt-ac5300", "banner": "220 Welcome to ASUS RT-AC5300 FTP service.\r\n"}
+{"id": 2031, "device_type": "router", "brand": "asus", "product": "rt-n14u", "banner": "220 Welcome to ASUS RT-N14UHP FTP service.\r\n"}
+{"id": 2032, "device_type": "router", "brand": "asus", "product": "rt-ac66u", "banner": "220 Welcome to ASUS RT-AC66U FTP service.\r\n"}
+{"id": 2033, "device_type": "router", "brand": "asus", "product": "rt-ac87u", "banner": "220 Welcome to ASUS RT-AC87U FTP service.\r\n"}
+{"id": 2034, "device_type": "router", "brand": "asus", "product": "dsl-ac68u", "banner": "220 Welcome to ASUS DSL-AC68U FTP service.\r\n"}
+{"id": 2035, "device_type": "router", "brand": "asus", "product": "rt-ac68p", "banner": "220 Welcome to ASUS RT-AC68P FTP service.\r\n"}
+{"id": 2036, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D7479) [192.168.0.1] UTF-8\r\n"}
+{"id": 2037, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-455215) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2038, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45EDD9) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2039, "device_type": "router", "brand": "asus", "product": "rt-ac66r", "banner": "220 Welcome to ASUS RT-AC66R FTP service.\r\n"}
+{"id": 2040, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6AA4C1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2041, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A3CE5D) [192.168.0.1]\r\n"}
+{"id": 2042, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65AA1B) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2043, "device_type": "router", "brand": "asus", "product": "rt-ac87r", "banner": "220 Welcome to ASUS RT-AC87R FTP service.\r\n"}
+{"id": 2044, "device_type": "router", "brand": "asus", "product": "rt-ac56u", "banner": "220 Welcome to ASUS RT-AC56U FTP service.\r\n"}
+{"id": 2045, "device_type": "router", "brand": "asus", "product": "rt-ac3100", "banner": "220 Welcome to ASUS RT-AC3100 FTP service.\r\n"}
+{"id": 2046, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (A2004NS-6C40ED) [192.168.1.1]\r\n"}
+{"id": 2047, "device_type": "router", "brand": "asus", "product": "rt-ac51u", "banner": "220 Welcome to ASUS RT-AC51U FTP service.\r\n"}
+{"id": 2048, "device_type": "router", "brand": "asus", "product": "rt-n66w", "banner": "220 Welcome to ASUS RT-N66W FTP service.\r\n"}
+{"id": 2049, "device_type": "router", "brand": "asus", "product": "rt-n56u", "banner": "220 Welcome to ASUS RT-N56U FTP service.\r\n"}
+{"id": 2050, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-DB4559) [::ffff:192.168.0.1]\r\n"}
+{"id": 2051, "device_type": "router", "brand": "netgear", "product": "r7000", "banner": "220 Welcome to ASUS R7000 FTP service.\r\n"}
+{"id": 2052, "device_type": "router", "brand": "asus", "product": "rt-n10u", "banner": "220 Welcome to ASUS RT-N10U FTP service.\r\n"}
+{"id": 2053, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C16EF5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2054, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A9B05) [192.168.0.1] UTF-8\r\n"}
+{"id": 2055, "device_type": "router", "brand": "netgear", "product": "r9000", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R9000) [::ffff:192.168.1.141]\r\n"}
+{"id": 2056, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:213.159.61.137]\r\n"}
+{"id": 2057, "device_type": "router", "brand": "asus", "product": "rt-n66u", "banner": "220 Welcome to ASUS RT-N66U FTP service.\r\n"}
+{"id": 2058, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1BD3B5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2059, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3A36D5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2060, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A6C8D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2061, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A83A45) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2062, "device_type": "router", "brand": "asus", "product": "rt-ac68u", "banner": "220 Welcome to ASUS RT-AC68UF FTP service.\r\n"}
+{"id": 2063, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-324199) [192.168.0.1] UTF-8\r\n"}
+{"id": 2064, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD67BD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2065, "device_type": "router", "brand": "asus", "product": "gt-ac5300", "banner": "220 Welcome to ASUS GT-AC5300 FTP service.\r\n"}
+{"id": 2066, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-4560FD) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2067, "device_type": "router", "brand": "asus", "product": "rt-n16", "banner": "220 Welcome to ASUS RT-N16 FTP service.\r\n"}
+{"id": 2068, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A27D29) [192.168.0.1]\r\n"}
+{"id": 2069, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-040245) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2070, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-094249) [192.168.0.1]\r\n"}
+{"id": 2071, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A863E5) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2072, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EAFB49) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2073, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:122.116.43.18]\r\n"}
+{"id": 2074, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-DB38F9) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2075, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A4EB81) [192.168.0.1]\r\n"}
+{"id": 2076, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A06CD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2077, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD9951) [192.168.0.1] UTF-8\r\n"}
+{"id": 2078, "device_type": "router", "brand": "linksys", "product": "ea6700", "banner": "220 Welcome to ASUS EA6700 FTP service.\r\n"}
+{"id": 2079, "device_type": "router", "brand": "dd-wrt", "product": "wndr3700v4", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNDR3700v4) [::ffff:192.168.8.3]\r\n"}
+{"id": 2080, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AEEC05) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2081, "device_type": "router", "brand": "asus", "product": "rt-ac56r", "banner": "220 Welcome to ASUS RT-AC56R FTP service.\r\n"}
+{"id": 2082, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1AC74D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2083, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-31DA65) [142.100.64.253] UTF-8\r\n"}
+{"id": 2084, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A585D5) [192.168.0.1]\r\n"}
+{"id": 2085, "device_type": "router", "brand": "asus", "product": "rt-acrh13", "banner": "220 Welcome to ASUS RT-ACRH13 FTP service.\r\n"}
+{"id": 2086, "device_type": "router", "brand": "netgear", "product": "wndr3800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNDR3800) [::ffff:74.77.191.83]\r\n"}
+{"id": 2087, "device_type": "router", "brand": "asus", "product": "rt-ac55u", "banner": "220 Welcome to ASUS RT-AC55U FTP service.\r\n"}
+{"id": 2088, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-4576F9) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2089, "device_type": "router", "brand": "asus", "product": "dsl-n55u", "banner": "220 Welcome to ASUS DSL-N55U FTP service.\r\n"}
+{"id": 2090, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-59080D) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2091, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD3861) [192.168.0.1] UTF-8\r\n"}
+{"id": 2092, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BED761) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2093, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3A6769) [192.168.0.1] UTF-8\r\n"}
+{"id": 2094, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-E9D221) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2095, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D3BB99) [192.168.0.1]\r\n"}
+{"id": 2096, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D81E5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2097, "device_type": "router", "brand": "asus", "product": "rt-n14u", "banner": "220 Welcome to ASUS RT-N14U FTP service.\r\n"}
+{"id": 2098, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A04B25) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2099, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C714ED) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2100, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-E9F5C1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2101, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9FA7F5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2102, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD2871) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2103, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C17335) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2104, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA1005) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2105, "device_type": "router", "brand": "asus", "product": "dsl-n14u", "banner": "220 Welcome to ASUS DSL-N14U FTP service.\r\n"}
+{"id": 2106, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE2BA9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2107, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6AF10D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2108, "device_type": "router", "brand": "asus", "product": "rt-n65u", "banner": "220 Welcome to ASUS RT-N65U FTP service.\r\n"}
+{"id": 2109, "device_type": "router", "brand": "asus", "product": "rt-ac68r", "banner": "220 Welcome to ASUS RT-AC68R FTP service.\r\n"}
+{"id": 2110, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A44D2D) [192.168.0.1]\r\n"}
+{"id": 2111, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F5A3D9) [192.168.1.1] UTF-8\r\n"}
+{"id": 2112, "device_type": "router", "brand": "asus", "product": "dsl-ac88u", "banner": "220 Welcome to ASUS DSL-AC88U FTP service.\r\n"}
+{"id": 2113, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6F84F9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2114, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A08FD9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2115, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D78125) [192.168.0.1] UTF-8\r\n"}
+{"id": 2116, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:68.195.58.86]\r\n"}
+{"id": 2117, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-312D39) [192.168.0.1] UTF-8\r\n"}
+{"id": 2118, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65D87F) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2119, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS BCM-F74515) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2120, "device_type": "router", "brand": "asus", "product": "rt-ac1200g", "banner": "220 Welcome to ASUS RT-AC1200G FTP service.\r\n"}
+{"id": 2121, "device_type": "router", "brand": "netgear", "product": "wnr2200", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNR2200) [::ffff:82.212.28.42]\r\n"}
+{"id": 2122, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C21C85) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2123, "device_type": "router", "brand": "asus", "product": "rt-n66u", "banner": "220 Welcome to ASUS RT-N66U_C1 FTP service.\r\n"}
+{"id": 2124, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-0AEA41) [192.168.0.1]\r\n"}
+{"id": 2125, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BEC979) [192.168.0.1] UTF-8\r\n"}
+{"id": 2126, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1CDD55) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2127, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-31C6C1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2128, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A2762D) [192.168.0.1]\r\n"}
+{"id": 2129, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C14A2D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2130, "device_type": "router", "brand": "asus", "product": "rt-ac1200hp", "banner": "220 Welcome to ASUS RT-AC1200HP FTP service.\r\n"}
+{"id": 2131, "device_type": "router", "brand": "asus", "product": "dsl-n14u", "banner": "220 Welcome to ASUS DSL-N14U-B1 FTP service.\r\n"}
+{"id": 2132, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3B01BD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2133, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-E86D05) [192.168.0.1]\r\n"}
+{"id": 2134, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1992D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2135, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-654289) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2136, "device_type": "router", "brand": "juniper", "product": "mx104", "banner": "220 DL-MR-BGR-MX104-01 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2137, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EAE79D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2138, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6136B1) [192.168.0.1]\r\n"}
+{"id": 2139, "device_type": "router", "brand": "asus", "product": "rt-ac52u", "banner": "220 Welcome to ASUS RT-AC52U_B1 FTP service.\r\n"}
+{"id": 2140, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-270385) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2141, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-044649) [192.168.0.1] UTF-8\r\n"}
+{"id": 2142, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DF07D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2143, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:24.5.33.200]\r\n"}
+{"id": 2144, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D7293D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2145, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6E4E41) [192.168.1.1] UTF-8\r\n"}
+{"id": 2146, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1CA735) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2147, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F592D9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2148, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-773969) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2149, "device_type": "router", "brand": "netgear", "product": "wndr3700", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNDR3700) [::ffff:188.24.88.188]\r\n"}
+{"id": 2150, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6988B1) [192.168.0.1] UTF-8\r\n"}
+{"id": 2151, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B9809) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2152, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-34BBA5) [192.168.0.2] UTF-8\r\n"}
+{"id": 2153, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:63.141.13.99]\r\n"}
+{"id": 2154, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C10879) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2155, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD6C95) [192.168.0.1]\r\n"}
+{"id": 2156, "device_type": "router", "brand": "netgear", "product": "x10", "banner": "220 MX104 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2157, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A0964D) [192.168.1.1] UTF-8\r\n"}
+{"id": 2158, "device_type": "router", "brand": "netgear", "product": "wnr2200", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNR2200) [::ffff:91.190.23.167]\r\n"}
+{"id": 2159, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-3192CD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2160, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D643F9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2161, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A47965) [192.168.0.1]\r\n"}
+{"id": 2162, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE331D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2163, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D303F9) [192.168.0.1]\r\n"}
+{"id": 2164, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS BCM-F70C0B) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2165, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A710D) [192.168.0.254] UTF-8\r\n"}
+{"id": 2166, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D76FCD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2167, "device_type": "router", "brand": "tenda", "product": "ac9", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD9AC9) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2168, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:67.251.72.75]\r\n"}
+{"id": 2169, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1CB259) [192.168.0.1] UTF-8\r\n"}
+{"id": 2170, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-32F385) [192.168.0.1] UTF-8\r\n"}
+{"id": 2171, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45F9F1) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2172, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D4D05) [192.168.0.1] UTF-8\r\n"}
+{"id": 2173, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-4575A9) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2174, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B4E35) [192.168.1.1] EUC-KR\r\n"}
+{"id": 2175, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B9525) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2176, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-713EC1) [192.168.0.1]\r\n"}
+{"id": 2177, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69D859) [192.168.0.1] UTF-8\r\n"}
+{"id": 2178, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D3A3B1) [192.168.0.1]\r\n"}
+{"id": 2179, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69AA4D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2180, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD Server (NETGEAR-R7800) [::ffff:81.203.222.194]\r\n"}
+{"id": 2181, "device_type": "router", "brand": "asus", "product": "rt-ac68u", "banner": "220 Welcome to ASUS RT-AC68U_WHITE FTP service.\r\n"}
+{"id": 2182, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6ACC0D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2183, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-455951) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2184, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-276A01) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2185, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A2A6E5) [192.168.0.1]\r\n"}
+{"id": 2186, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-328C1D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2187, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:71.56.152.209]\r\n"}
+{"id": 2188, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-05E339) [192.168.0.1] UTF-8\r\n"}
+{"id": 2189, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-33C6B1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2190, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C224AD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2191, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AEEEA9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2192, "device_type": "router", "brand": "netgear", "product": "r8500", "banner": "220 Welcome to ASUS R8500 FTP service.\r\n"}
+{"id": 2193, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-622B59) [192.168.0.1]\r\n"}
+{"id": 2194, "device_type": "router", "brand": "iptime", "product": "a104ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A104NS-517A62) [192.168.0.1] UTF-8\r\n"}
+{"id": 2195, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DCDD9) [192.168.30.1] UTF-8\r\n"}
+{"id": 2196, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-273E05) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2197, "device_type": "router", "brand": "asus", "product": "rt-ac85u", "banner": "220 Welcome to ASUS RT-AC85U FTP service.\r\n"}
+{"id": 2198, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-654535) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2199, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F2861) [192.168.0.1]\r\n"}
+{"id": 2200, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45DF29) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2201, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6EB239) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2202, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-31C6A5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2203, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-ADAA99) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2204, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-656A8F) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2205, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1ABDE5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2206, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1FD55) [192.168.0.1] UTF-8\r\n"}
+{"id": 2207, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A414C1) [192.168.0.1]\r\n"}
+{"id": 2208, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-654029) [192.168.0.1]\r\n"}
+{"id": 2209, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F3739) [192.168.0.1]\r\n"}
+{"id": 2210, "device_type": "router", "brand": "asus", "product": "rt-ac56s", "banner": "220 Welcome to ASUS RT-AC56S FTP service.\r\n"}
+{"id": 2211, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A43F11) [192.168.0.1]\r\n"}
+{"id": 2212, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-08BA49) [192.168.0.1]\r\n"}
+{"id": 2213, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:47.18.44.38]\r\n"}
+{"id": 2214, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A385D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2215, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1C3709) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2216, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-31270D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2217, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A3D9D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2218, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD7639) [192.168.1.1] UTF-8\r\n"}
+{"id": 2219, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A0D89) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2220, "device_type": "router", "brand": "asus", "product": "rt-n66r", "banner": "220 Welcome to ASUS RT-N66R FTP service.\r\n"}
+{"id": 2221, "device_type": "router", "brand": "asus", "product": "rt-ac68w", "banner": "220 Welcome to ASUS RT-AC68W FTP service.\r\n"}
+{"id": 2222, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1C4D95) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2223, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B5531) [192.168.75.1] UTF-8\r\n"}
+{"id": 2224, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C18FB5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2225, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-E88079) [192.168.0.1]\r\n"}
+{"id": 2226, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BDB119) [192.168.1.1] UTF-8\r\n"}
+{"id": 2227, "device_type": "router", "brand": "asus", "product": "rt-n15u", "banner": "220 Welcome to ASUS RT-N15U FTP service.\r\n"}
+{"id": 2228, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D7B265) [192.168.0.1] UTF-8\r\n"}
+{"id": 2229, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE32C1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2230, "device_type": "router", "brand": "iptime", "product": "a704ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F5A85) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2231, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-4538DD) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2232, "device_type": "router", "brand": "mikrotik", "product": "rb750", "banner": "220 Ard_rb750 FTP server (MikroTik 6.25) ready\r\n"}
+{"id": 2233, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A517A5) [192.168.0.1]\r\n"}
+{"id": 2234, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-275BF1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2235, "device_type": "router", "brand": "asus", "product": "rt-ac52u", "banner": "220 Welcome to ASUS RT-AC52U FTP service.\r\n"}
+{"id": 2236, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-DAAD49) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2237, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA4085) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2238, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-08A4D5) [192.168.0.1]\r\n"}
+{"id": 2239, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-044709) [192.168.0.1] UTF-8\r\n"}
+{"id": 2240, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1BEB5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2241, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F55639) [192.168.0.1]\r\n"}
+{"id": 2242, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:71.68.40.195]\r\n"}
+{"id": 2243, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-E8CE5D) [192.168.0.1]\r\n"}
+{"id": 2244, "device_type": "router", "brand": "netgear", "product": "r9000", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R9000) [::ffff:45.27.129.121]\r\n"}
+{"id": 2245, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1AF3B1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2246, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-10F85D) [192.168.0.1]\r\n"}
+{"id": 2247, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85185) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2248, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:97.101.198.63]\r\n"}
+{"id": 2249, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD4241) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2250, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.0 Server (ipTIME A2004NS-638EB1) [192.168.0.1]\r\n"}
+{"id": 2251, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1FD91) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2252, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C7965D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2253, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C7017D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2254, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-ADDF55) [192.168.0.1] UTF-8\r\n"}
+{"id": 2255, "device_type": "router", "brand": "netgear", "product": "r9000", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R9000) [::ffff:68.228.249.121]\r\n"}
+{"id": 2256, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-040241) [192.168.0.1] UTF-8\r\n"}
+{"id": 2257, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BDFD3D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2258, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-27BBB1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2259, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-461015) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2260, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45CA81) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2261, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D3463D) [192.168.0.1]\r\n"}
+{"id": 2262, "device_type": "router", "brand": "asus", "product": "ac1200", "banner": "220 Welcome to RT-AC1200 FTP service.\r\n"}
+{"id": 2263, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69B4D5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2264, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-7601A9) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2265, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-31EA21) [192.168.0.1] UTF-8\r\n"}
+{"id": 2266, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F5FAF5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2267, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD9761) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2268, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A2DC51) [192.168.0.1]\r\n"}
+{"id": 2269, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A5FF51) [192.168.0.1]\r\n"}
+{"id": 2270, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-656B21) [::ffff:192.168.10.1] EUC-KR\r\n"}
+{"id": 2271, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1BA221) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2272, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65C2FD) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2273, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A739D) [192.168.37.1] UTF-8\r\n"}
+{"id": 2274, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (TOTOLINK A2004NS-6C1635) [192.168.1.1]\r\n"}
+{"id": 2275, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D66001) [192.168.0.1] UTF-8\r\n"}
+{"id": 2276, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69C1A5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2277, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1EB85) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2278, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-09D4A5) [192.168.0.1]\r\n"}
+{"id": 2279, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A82387) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2280, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-086C45) [192.168.0.1]\r\n"}
+{"id": 2281, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D410D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2282, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-105EB5) [192.168.0.1]\r\n"}
+{"id": 2283, "device_type": "router", "brand": "mikrotik", "product": "rb2011", "banner": "220 SynerBlue-RB2011 FTP server (MikroTik 6.33) ready\r\n"}
+{"id": 2284, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A8419F) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2285, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-275F75) [192.168.0.1] UTF-8\r\n"}
+{"id": 2286, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9D44D9) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2287, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:151.248.26.34]\r\n"}
+{"id": 2288, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-040FDD) [192.168.1.1] EUC-KR\r\n"}
+{"id": 2289, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45E971) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2290, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DF8A9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2291, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BDF179) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2292, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F6F95) [192.168.0.1]\r\n"}
+{"id": 2293, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D6FA1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2294, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-323629) [192.168.0.1] UTF-8\r\n"}
+{"id": 2295, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F6FA1D) [192.168.0.252]\r\n"}
+{"id": 2296, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-08E9CD) [192.168.0.1]\r\n"}
+{"id": 2297, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D4C0A1) [192.168.0.1]\r\n"}
+{"id": 2298, "device_type": "router", "brand": "linksys", "product": "ea6900", "banner": "220 Welcome to ASUS EA6900 FTP service.\r\n"}
+{"id": 2299, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-33B251) [192.168.0.1] UTF-8\r\n"}
+{"id": 2300, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-459AA9) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2301, "device_type": "router", "brand": "netgear", "product": "d7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-D7800) [::ffff:90.255.228.144]\r\n"}
+{"id": 2302, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-603BB9) [192.168.0.1]\r\n"}
+{"id": 2303, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C78039) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2304, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D27ED) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2305, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-7177B9) [192.168.0.1]\r\n"}
+{"id": 2306, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1BF485) [192.168.0.1] UTF-8\r\n"}
+{"id": 2307, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3A6325) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2308, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD2BFD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2309, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-278481) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2310, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:68.34.66.186]\r\n"}
+{"id": 2311, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F581A5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2312, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D41F49) [192.168.0.1]\r\n"}
+{"id": 2313, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-E90CFD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2314, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE3725) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2315, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AEF7A9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2316, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F6F489) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2317, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A11CD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2318, "device_type": "router", "brand": "linksys", "product": "ac1750", "banner": "220 Welcome to ASUS RT-AC1750 FTP service.\r\n"}
+{"id": 2319, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6945BD) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2320, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:82.10.176.196]\r\n"}
+{"id": 2321, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A8115D) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2322, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-3447FD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2323, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69335D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2324, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A1B7D5) [192.168.0.1]\r\n"}
+{"id": 2325, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BBE961) [192.168.0.1]\r\n"}
+{"id": 2326, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1E499) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2327, "device_type": "router", "brand": "iptime", "product": "a704ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F2309) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2328, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B2119) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2329, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C2162D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2330, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A847D9) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2331, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD5C7D) [::ffff:172.30.1.20] EUC-KR\r\n"}
+{"id": 2332, "device_type": "router", "brand": "iptime", "product": "a104ns", "banner": "220 ipTIME_FTPD 1.3.0 Server (ipTIME A104NS PINKMOD-51B312) [192.168.0.1]\r\n"}
+{"id": 2333, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3A8AB1) [192.168.0.1] UTF-8\r\n"}
+{"id": 2334, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AEFE31) [192.168.0.1] UTF-8\r\n"}
+{"id": 2335, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C145DD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2336, "device_type": "router", "brand": "netgear", "product": "d7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-D7800) [::ffff:86.136.114.85]\r\n"}
+{"id": 2337, "device_type": "router", "brand": "asus", "product": "dsl-n17u", "banner": "220 Welcome to ASUS DSL-N17U FTP service.\r\n"}
+{"id": 2338, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-ADCE0D) [192.168.1.1] UTF-8\r\n"}
+{"id": 2339, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1787D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2340, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-348C11) [192.168.0.1] UTF-8\r\n"}
+{"id": 2341, "device_type": "router", "brand": "iptime", "product": "a704ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-71C68D) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2342, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A519C9) [192.168.0.250]\r\n"}
+{"id": 2343, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9F23CD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2344, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-2790E9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2345, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A29829) [192.168.0.1]\r\n"}
+{"id": 2346, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-0A02E5) [192.168.0.1]\r\n"}
+{"id": 2347, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-33F72D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2348, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-0AD6B9) [192.168.0.1]\r\n"}
+{"id": 2349, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F5F04D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2350, "device_type": "router", "brand": "tenda", "product": "ac15", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69AC15) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2351, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9F4BE5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2352, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C21511) [192.168.0.1] UTF-8\r\n"}
+{"id": 2353, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A86B01) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2354, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD260D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2355, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE8241) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2356, "device_type": "router", "brand": "netgear", "product": "r9000", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R9000) [::ffff:98.116.191.190]\r\n"}
+{"id": 2357, "device_type": "router", "brand": "netgear", "product": "x10", "banner": "220 FXWL-MX10003-PPPOE-62 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2358, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C77201) [192.168.0.1] UTF-8\r\n"}
+{"id": 2359, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A4D3B1) [192.168.0.1]\r\n"}
+{"id": 2360, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA6A39) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2361, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C74DA5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2362, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C7AF59) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2363, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D7651) [192.168.0.1] UTF-8\r\n"}
+{"id": 2364, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A08091) [192.168.0.1] UTF-8\r\n"}
+{"id": 2365, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D35CA5) [192.168.0.1]\r\n"}
+{"id": 2366, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C21609) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2367, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-E9CCFD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2368, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-628821) [192.168.0.1]\r\n"}
+{"id": 2369, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C7E475) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2370, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-4513B5) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2371, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1E0FD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2372, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE3A5D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2373, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A4C06D) [192.168.0.1]\r\n"}
+{"id": 2374, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C72B69) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2375, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D0ECD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2376, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65CCF1) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2377, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-081E25) [192.168.0.1]\r\n"}
+{"id": 2378, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45115D) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2379, "device_type": "router", "brand": "iptime", "product": "a704ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F2721) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2380, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:66.8.201.59]\r\n"}
+{"id": 2381, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-DB2F99) [::ffff:192.168.1.1] UTF-8\r\n"}
+{"id": 2382, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-E80535) [192.168.0.1]\r\n"}
+{"id": 2383, "device_type": "router", "brand": "netgear", "product": "r9000", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R9000) [::ffff:96.39.132.196]\r\n"}
+{"id": 2384, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C22029) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2385, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A814DB) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2386, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C155B5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2387, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD6C15) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2388, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE0D9D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2389, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-6596EB) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2390, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-655075) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2391, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F5A009) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2392, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-27F8ED) [192.168.0.1] UTF-8\r\n"}
+{"id": 2393, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-DAD519) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2394, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A82C6D) [::ffff:192.168.77.1] EUC-KR\r\n"}
+{"id": 2395, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1A4409) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2396, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D0CAD) [192.168.0.1] UTF-8\r\n"}
+{"id": 2397, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-590511) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2398, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-453769) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2399, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B5D29) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2400, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EACC5D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2401, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA8929) [192.168.0.1] UTF-8\r\n"}
+{"id": 2402, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-276501) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2403, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE3BD9) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2404, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1C2D39) [192.168.10.1] UTF-8\r\n"}
+{"id": 2405, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE4FBD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2406, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C2072D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2407, "device_type": "router", "brand": "iptime", "product": "a704ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F4ADF) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2408, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD7E59) [192.168.0.1] UTF-8\r\n"}
+{"id": 2409, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-0ACFED) [192.168.0.1]\r\n"}
+{"id": 2410, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD4499) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2411, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA741D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2412, "device_type": "router", "brand": "mikrotik", "product": "fw1", "banner": "220 SKT_TMAP_BUSAN_SRX320_FW1 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2413, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69DC09) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2414, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD7A75) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2415, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A41761) [192.168.0.1]\r\n"}
+{"id": 2416, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-ADE50D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2417, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6350F1) [192.168.0.1]\r\n"}
+{"id": 2418, "device_type": "router", "brand": "netgear", "product": "r9000", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R9000) [::ffff:81.16.167.82]\r\n"}
+{"id": 2419, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C21241) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2420, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA0941) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2421, "device_type": "router", "brand": "huawei", "product": "ws880", "banner": "220 Welcome to ASUS WS880 FTP service.\r\n"}
+{"id": 2422, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-633971) [192.168.33.1]\r\n"}
+{"id": 2423, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:88.85.147.73]\r\n"}
+{"id": 2424, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-E95A65) [192.168.0.1] UTF-8\r\n"}
+{"id": 2425, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6ECE7D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2426, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BBF875) [192.168.0.1] UTF-8\r\n"}
+{"id": 2427, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C7D939) [192.168.0.1] UTF-8\r\n"}
+{"id": 2428, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C70BA5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2429, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A86005) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2430, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-651E7D) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2431, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9F856D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2432, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AD6E65) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2433, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45C669) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2434, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A5F60D) [192.168.0.1]\r\n"}
+{"id": 2435, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D3D6C9) [192.168.0.1]\r\n"}
+{"id": 2436, "device_type": "router", "brand": "netgear", "product": "wndr3800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-WNDR3800) [::ffff:47.17.181.16]\r\n"}
+{"id": 2437, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS BCM-F757AD) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2438, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1B489) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2439, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A0DFF1) [192.168.0.1] UTF-8\r\n"}
+{"id": 2440, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-4527ED) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2441, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1E75D) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2442, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD016D) [192.168.25.1] EUC-KR\r\n"}
+{"id": 2443, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45CD09) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2444, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE53E5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2445, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6FF93D) [192.168.0.1]\r\n"}
+{"id": 2446, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-3301A5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2447, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1C8C09) [192.168.1.1] EUC-KR\r\n"}
+{"id": 2448, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65BCFF) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2449, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A1DC39) [192.168.0.1]\r\n"}
+{"id": 2450, "device_type": "router", "brand": "zbt", "product": "wg3526", "banner": "220 Welcome to ZBT-WG3526 FTP service.\r\n"}
+{"id": 2451, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9D2655) [192.168.0.1] UTF-8\r\n"}
+{"id": 2452, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-450D8D) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2453, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:81.106.192.32]\r\n"}
+{"id": 2454, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-343CA9) [192.168.0.1] UTF-8\r\n"}
+{"id": 2455, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD08B1) [192.168.0.1] UTF-8\r\n"}
+{"id": 2456, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:73.175.53.119]\r\n"}
+{"id": 2457, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D7FCD5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2458, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-34BE9D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2459, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A1C5C9) [192.168.0.1]\r\n"}
+{"id": 2460, "device_type": "router", "brand": "linksys", "product": "ac1750", "banner": "220 Welcome to ASUS RT-AC1750_B1 FTP service.\r\n"}
+{"id": 2461, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS BCM-F757D3) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2462, "device_type": "router", "brand": "iptime", "product": "a8004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-450A11) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2463, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD9115) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2464, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-AE8401) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2465, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1DE299) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2466, "device_type": "router", "brand": "asus", "product": "dsl-n66u", "banner": "220 Welcome to ASUS DSL-N66U FTP service.\r\n"}
+{"id": 2467, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD2C71) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2468, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BDFE25) [192.168.0.1] UTF-8\r\n"}
+{"id": 2469, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1D5885) [192.168.0.1] UTF-8\r\n"}
+{"id": 2470, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C12A35) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2471, "device_type": "router", "brand": "netgear", "product": "r7800", "banner": "220 ProFTPD 1.3.3 Server (NETGEAR-R7800) [::ffff:71.72.35.73]\r\n"}
+{"id": 2472, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-621519) [192.168.0.1]\r\n"}
+{"id": 2473, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-D63E79) [192.168.0.1]\r\n"}
+{"id": 2474, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS BCM-F739F9) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"id": 2475, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F7751) [192.168.0.1]\r\n"}
+{"id": 2476, "device_type": "router", "brand": "juniper", "product": "mx240", "banner": "220 RR_MX240_C30_02J_RE0 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2477, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1B8845) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2478, "device_type": "router", "brand": "iptime", "product": "n904ns", "banner": "220 ipTIME_FTPD 1.3.0 Server (ipTIME N904NS-0E7D79) [192.168.0.1]\r\n"}
+{"id": 2479, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-F5A171) [192.168.0.3] EUC-KR\r\n"}
+{"id": 2480, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1D459) [192.168.0.1] UTF-8\r\n"}
+{"id": 2481, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6E2091) [192.168.1.1] UTF-8\r\n"}
+{"id": 2482, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1C817D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2483, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A85243) [::ffff:192.168.0.254] UTF-8\r\n"}
+{"id": 2484, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9F01A5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2485, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE4E81) [192.168.0.1] UTF-8\r\n"}
+{"id": 2486, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-D388E9) [192.168.0.1]\r\n"}
+{"id": 2487, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-0AC4BD) [192.168.0.1]\r\n"}
+{"id": 2488, "device_type": "router", "brand": "juniper", "product": "mx240", "banner": "220 CORE_MX240 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2489, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-6542DF) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2490, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6906B5) [192.168.0.1] UTF-8\r\n"}
+{"id": 2491, "device_type": "router", "brand": "iptime", "product": "a5004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-6522AD) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2492, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-270CF5) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2493, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1AF8F1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2494, "device_type": "router", "brand": "iptime", "product": "a2004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-7150E9) [192.168.0.1]\r\n"}
+{"id": 2495, "device_type": "router", "brand": "iptime", "product": "a1004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-A0134D) [192.168.0.1] UTF-8\r\n"}
+{"id": 2496, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA4021) [192.168.0.1] UTF-8\r\n"}
+{"id": 2497, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BE0A45) [192.168.0.1] UTF-8\r\n"}
+{"id": 2498, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA3E05) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2499, "device_type": "router", "brand": "iptime", "product": "a6004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69D5AD) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2500, "device_type": "router", "brand": "iptime", "product": "a3004ns", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-EA0B49) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2501, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 FS-C2126MFP FTP server\r\n"}
+{"id": 2502, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 FS-C2126MFP+ FTP server\r\n"}
+{"id": 2503, "device_type": "switch", "brand": "mikrotik", "product": "a53", "banner": "220 ET0021B7A53990 Lexmark CX725 FTP Server CXTAT.053.023 ready.\r\n"}
+{"id": 2504, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 ET0021B7EB5F76 Lexmark XC2130 FTP Server NH63.GM.N640 ready.\r\n"}
+{"id": 2505, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 ET0021B7A5D4AA Lexmark XC2132 FTP Server NH5.GM.N543 ready.\r\n"}
+{"id": 2506, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 GUPRN510 Lexmark XC2132 FTP Server NH61.GM.N634 ready.\r\n"}
+{"id": 2507, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 ET0021B749111F Lexmark XC2132 FTP Server NH5.GM.N543 ready.\r\n"}
+{"id": 2508, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ET0021B7BA233B Lexmark XM3150 FTP Server NH71.SB.N025 ready.\r\n"}
+{"id": 2509, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 ET0021B7035BEA Lexmark XC2132 FTP Server NH63.GM.N638 ready.\r\n"}
+{"id": 2510, "device_type": "switch", "brand": "mikrotik", "product": "a53", "banner": "220 ET0021B7476A53 Lexmark C4150 FTP Server CSTAT.052.024 ready.\r\n"}
+{"id": 2511, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 ET0021B7A5D84D Lexmark XC2132 FTP Server NH6.GM.N632 ready.\r\n"}
+{"id": 2512, "device_type": "switch", "brand": "tp-link", "product": "a50", "banner": "220 ET0021B78A5017 Lexmark T652 FTP Server NR.APS.N528 ready.\r\n"}
+{"id": 2513, "device_type": "switch", "brand": "mikrotik", "product": "a57", "banner": "220 ET0021B72A57AA Lexmark C543 FTP Server NR.APS.N645 ready.\r\n"}
+{"id": 2514, "device_type": "switch", "brand": "linksys", "product": "wrt1900ac", "banner": "220 Welcome to Zalex-WRT1900AC\r\n"}
+{"id": 2515, "device_type": "switch", "brand": "zyxel", "product": "pmg5318-b20a", "banner": "220- Welcome to ftp server.\r\n220 PMG5318-B20A FTP server ready.\r\n"}
+{"id": 2516, "device_type": "switch", "brand": "hp", "product": "ac68u", "banner": "220 Welcome to ASUS 4G-AC68U FTP service.\r\n"}
+{"id": 2517, "device_type": "Switch", "brand": "juniper", "product": "qfx5100", "banner": "220 MIA2A-0505-35U-QFX5100-WAN FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2518, "device_type": "switch", "brand": "juniper", "product": "ex3300", "banner": "220 SG-EQ-ASW-EX3300 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2519, "device_type": "Switch", "brand": "juniper", "product": "qfx5100", "banner": "220 180-Tremont-QFX5100-Dst FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2520, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 Pine_Grove_ex2200-24T FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2521, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 NLM-FS01 FTP server ready.\r\n"}
+{"id": 2522, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 TMNET-FS01 FTP server ready.\r\n"}
+{"id": 2523, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-A82DC1) [::ffff:192.168.87.1] UTF-8\r\n"}
+{"id": 2524, "device_type": "Switch", "brand": "juniper", "product": "qfx5100", "banner": "220 BJ-WFJ-QFX5100 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2525, "device_type": "Switch", "brand": "juniper", "product": "qfx5100", "banner": "220 FRA5B-0112-41U-QFX5100-WAN FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2526, "device_type": "switch", "brand": "mikrotik", "product": "crs326-24g", "banner": "220 MikroTik_CRS326-24G-2S+ FTP server (MikroTik 6.44) ready\r\n"}
+{"id": 2527, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 BJ_CT_LDJ_MSTP_SW_EX2200_VC FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2528, "device_type": "switch", "brand": "mikrotik", "product": "rb493", "banner": "220 cpv-belavista-condominio-RB493 FTP server (MikroTik 6.43) ready\r\n"}
+{"id": 2529, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 ZEE-FS01 FTP server ready.\r\n"}
+{"id": 2530, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-C1DC11) [192.168.0.1] UTF-8\r\n"}
+{"id": 2531, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 ProFTPD 1.3.3a Server (FS01) [91.201.153.138]\r\n"}
+{"id": 2532, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <e4193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2533, "device_type": "Switch", "brand": "juniper", "product": "ex3200", "banner": "220 mozz-ex3200-emed-00 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2534, "device_type": "Switch", "brand": "juniper", "product": "qfx5100", "banner": "220 NEWCO-GB-QFX5100-LSW FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2535, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 DS_HQ_internet_EX2200 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2536, "device_type": "Switch", "brand": "juniper", "product": "qfx5100", "banner": "220 NEWCO-NP-QFX5100-LSW FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2537, "device_type": "switch", "brand": "juniper", "product": "ex3300", "banner": "220 BB_Ex3300-24T FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2538, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 CRP-SW-EX2200-C-00-SSC-989724-27 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2539, "device_type": "Switch", "brand": "dell", "product": "r820", "banner": "220 usr8200 FTP server (Version 6.5/OpenBSD) ready.\r\n"}
+{"id": 2540, "device_type": "switch", "brand": "juniper", "product": "ex3300", "banner": "220 DMZ-EX3300_Ex7_237 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2541, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 BIT4U-FS01 FTP server ready.\r\n"}
+{"id": 2542, "device_type": "switch", "brand": "mikrotik", "product": "sw1", "banner": "220 YP_GS_P8424FG_SW1 FTP server ready.\r\n"}
+{"id": 2543, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 AhroIT-FS01 FTP server ready.\r\n"}
+{"id": 2544, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <95193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2545, "device_type": "switch", "brand": "mikrotik", "product": "rb850gx2", "banner": "220 Kemskaja-RB850Gx2 FTP server (MikroTik 6.43) ready\r\n"}
+{"id": 2546, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 BJ-WFJ-EX2200 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2547, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <84193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2548, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 alemint-fs01 FTP server ready.\r\n"}
+{"id": 2549, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 m-sv-p-fs01 FTP server ready.\r\n"}
+{"id": 2550, "device_type": "switch", "brand": "hp", "product": "gen8", "banner": "220 NAS-GEN8 FTP server ready.\r\n"}
+{"id": 2551, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [71.9.177.87]\r\n"}
+{"id": 2552, "device_type": "Switch", "brand": "axis", "product": "p8221", "banner": "220 AXIS P8221 IO Audio Module 5.10.3 (Jan 29 2016) ready.\r\n"}
+{"id": 2553, "device_type": "Switch", "brand": "axis", "product": "p8221", "banner": "220 AXIS P8221 IO Audio Module 5.10.2 (Nov 07 2011) ready.\r\n"}
+{"id": 2554, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [190.10.168.131]\r\n"}
+{"id": 2555, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [72.129.151.191]\r\n"}
+{"id": 2556, "device_type": "switch", "brand": "mikrotik", "product": "ps2", "banner": "220-######################################################################\r\n220-##                                                                  ##\r\n220-##                    Elsevier Ltd FTP Service                      ##\r\n220-##                    ------------------------                      ##\r\n220-##                                                                  ##\r\n220-## This system is for the use of authorized users only.             ##\r\n220-##                                                                  ##\r\n220-## ftp.elsevier.com offers passworded account ftp access only. All  ##\r\n220-## transfers and connections are logged and analysed.               ##\r\n220-##                                                                  ##\r\n220-## Anyone using this system expressly consents to such monitoring   ##\r\n220-## and is advised that if such monitoring reveals possible          ##\r\n220-## evidence of criminal activity, system personnel will provide the ##\r\n220-## evidence of such monitoring to the appropriate authorities.      ##\r\n220-##                                                                  ##\r\n220-## Users requiring anonymous FTP access should connect to the       ##\r\n220-## alternative server anonymous.elsevier.com.                       ##\r\n220-##                                                                  ##\r\n220-######################################################################\r\n220-###################################################################\r\n220-*****************************************************************************************************\r\n220-*****************************************************************************************************\r\n220-*****************************************************************************************************\r\n220-******************************************************************************************************\r\n220-*****************************************************************************************************\r\n220-##############################################################################################################################################\r\n220-CAUTION : FTP transfer data in any user account holding more than 30 days will be removed automatically because of a scheduled job in this server. For any changes, please contact UNIX/LINUX/VMS Support(UK) - TIO(ELS)\r\n220-#############################################################################################################################################\r\n220-\r\n220 slzaps2l FTP server ready.\r\n"}
+{"id": 2557, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [71.11.169.48]\r\n"}
+{"id": 2558, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [73.118.16.21]\r\n"}
+{"id": 2559, "device_type": "Switch", "brand": "axis", "product": "p8221", "banner": "220 AXIS P8221 IO Audio Module 5.10.1 (Feb 03 2011) ready.\r\n"}
+{"id": 2560, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300) [47.7.193.236]\r\n"}
+{"id": 2561, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 WGH-TELCO-EX2200 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2562, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 icraft-EX2200 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2563, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 FF-FS01 FTP server ready.\r\n"}
+{"id": 2564, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <60193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2565, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <4c193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2566, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 CRP-SW-EX2200-C-00-SSC-989713-28 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2567, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220-CONSID FTP SERVER (considgbg-fs01)\r\n220-\r\n220-FileZilla Server 0.9.54 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit https://filezilla-project.org/\r\n"}
+{"id": 2568, "device_type": "Switch", "brand": "juniper", "product": "ex3200", "banner": "220 YESCO_EX3200_HQ FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2569, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C70DC1) [192.168.0.1] EUC-KR\r\n"}
+{"id": 2570, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 SRV91-FS01 FTP server ready.\r\n"}
+{"id": 2571, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 ProFTPD 1.3.5rc3 Server (fs01) [::ffff:10.0.11.15]\r\n"}
+{"id": 2572, "device_type": "switch", "brand": "hp", "product": "gen8", "banner": "220 HP-GEN8 FTP server ready.\r\n"}
+{"id": 2573, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 <c21733cf>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2574, "device_type": "Switch", "brand": "mikrotik", "product": "rb2011uias", "banner": "220 MikroTik_RB2011UiAS-2HnD FTP server (MikroTik 6.46) ready\r\n"}
+{"id": 2575, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 STPI_BHILAI_EX2200 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2576, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 niconet-fs01 FTP server ready.\r\n"}
+{"id": 2577, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-653DC1) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2578, "device_type": "switch", "brand": "juniper", "product": "ex3300", "banner": "220 DXB1A-403-10U-EX3300-CTRL FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2579, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 BC-FS01 FTP server ready.\r\n"}
+{"id": 2580, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 iss-fs01 FTP server ready.\r\n"}
+{"id": 2581, "device_type": "switch", "brand": "tenda", "product": "s16", "banner": "220 FTP Version 1.1 on ETS16PR\r\n"}
+{"id": 2582, "device_type": "Switch", "brand": "mikrotik", "product": "rb2011uias", "banner": "220 Esztergalyos_Mikrotik_RB2011uias FTP server (MikroTik 6.10) ready\r\n"}
+{"id": 2583, "device_type": "switch", "brand": "mikrotik", "product": "n2d", "banner": "220 Dunsan2DongSamuso FTP server ready.\r\n"}
+{"id": 2584, "device_type": "switch", "brand": "mikrotik", "product": "crs125", "banner": "220 ORL_CRS125_24G FTP server (MikroTik 6.9) ready\r\n"}
+{"id": 2585, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-65DC1D) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2586, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 QCMEG-FS01 FTP server ready.\r\n"}
+{"id": 2587, "device_type": "Switch", "brand": "cisco", "product": "sw2", "banner": "220 CAN-P8224-ASW2 FTP server ready.\r\n"}
+{"id": 2588, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 ct-fs01 FTP server ready.\r\n"}
+{"id": 2589, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <5b193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2590, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <9193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2591, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 FJ_QZ_LDJ_SW_EX2200_VC FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2592, "device_type": "switch", "brand": "tp-link", "product": "a50", "banner": "220 <4a507488>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2593, "device_type": "Switch", "brand": "hp", "product": "c21", "banner": "220 <c21d39c5>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2594, "device_type": "Switch", "brand": "mikrotik", "product": "rb2011uias", "banner": "220 RB_DENIA_RB2011UiAS-2HnD FTP server (MikroTik 6.44) ready\r\n"}
+{"id": 2595, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 <ba2307fb>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2596, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 CRP-SW-EX2200-C-00-PAMI-995827-1 FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2597, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 alpdest_fs01_14 FTP server ready.\r\n"}
+{"id": 2598, "device_type": "Switch", "brand": "mikrotik", "product": "rb2011uias", "banner": "220 MikroTik_RB2011UiAS FTP server (MikroTik 6.5) ready\r\n"}
+{"id": 2599, "device_type": "switch", "brand": "linksys", "product": "wrt1900ac", "banner": "220 Welcome to Jeffs-WRT1900AC\r\n"}
+{"id": 2600, "device_type": "Switch", "brand": "tp-link", "product": "r301", "banner": "220-\r\r\n220-*******************************************************************************\r\r\n220-                              OI - Simples Assim!\r\r\n220- \r\r\n220-    Cliente: ARAURO\r\r\n220-    Circuito: CTA 0825449\r\r\n220-    Equipamento: HP MSR3012\r\r\n220- Warning! The use of this system is restricted to authorized users.\r\r\n220- All information and communications on this system are subject to review,\r\r\n220-monitoring and recording at any time, without notice or permission.\r\r\n220- Unauthorized access or use shall be subject to prosecution.\r\r\n220-                         \r\r\n220- Atencao! A utilizacao desse sistema e limitado a usuarios autorizados.\r\r\n220-Todas as informacoes e comunicacoes sobre este sistema est\u00e3o sujeitos ao\r\r\n220-monitoramento e gravacao a qualquer momento, sem previo aviso ou autorizacao.\r\r\n220-O Acesso ou uso nao autorizado estara sujeito as medidas legais.\r\r\n220- \r\r\n220-*******************************************************************************\r\r\n220-\r\n220 FTP service ready.\r\n"}
+{"id": 2601, "device_type": "switch", "brand": "juniper", "product": "ex2200", "banner": "220 DaeDong-Ex2200-24P FTP server (Version 6.00LS) ready.\r\n"}
+{"id": 2602, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 T_FS01 FTP server ready.\r\n"}
+{"id": 2603, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F5A23) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"id": 2604, "device_type": "switch", "brand": "zoom", "product": "fs01", "banner": "220 ProFTPD 1.3.5a Server (fs01) [185.150.157.238]\r\n"}
+{"id": 2605, "device_type": "switch", "brand": "cisco", "product": "dc1", "banner": "220 <39193dc1>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"id": 2606, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [75.133.46.153]\r\n"}
+{"id": 2607, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [69.119.115.192]\r\n"}
+{"id": 2608, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [76.19.238.229]\r\n"}
+{"id": 2609, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [173.246.235.80]\r\n"}
+{"id": 2610, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [180.228.82.81]\r\n"}
+{"id": 2611, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [24.203.132.204]\r\n"}
+{"id": 2612, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [35.137.20.18]\r\n"}
+{"id": 2613, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [172.90.48.210]\r\n"}
+{"id": 2614, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [24.63.220.10]\r\n"}
+{"id": 2615, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [72.180.198.238]\r\n"}
+{"id": 2616, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [173.70.106.22]\r\n"}
+{"id": 2617, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300) [73.224.125.173]\r\n"}
+{"id": 2618, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [68.62.123.78]\r\n"}
+{"id": 2619, "device_type": "switch", "brand": "hp", "product": "a23", "banner": "220 ProFTPD 1.3.4b Server (A2300-Share) [24.253.37.157]\r\n"}

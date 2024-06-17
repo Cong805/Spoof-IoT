@@ -1,0 +1,6 @@
+camera
+gateway
+modem
+printer
+router
+switch

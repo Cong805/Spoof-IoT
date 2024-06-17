@@ -1,0 +1,3 @@
+raw_rule_dt dt类型的原始数据
+raw_rule_dt_ftp 为ftp的原始数据
+raw_rule_dt_http 为http的原始数据
