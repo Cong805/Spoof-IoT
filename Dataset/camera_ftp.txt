@@ -1,0 +1,161 @@
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B70173FB Lexmark MS410dn FTP Server NH62.CY.N636 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 PL16222 Lexmark MS410dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B70B2E0A Lexmark CS410n FTP Server NH63.VY.N640 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B73CFE76 Lexmark T652 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B781E0FB Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B73E34B7 Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ET0021B741A418 KONICA MINOLTA bizhub 4020 FTP Server NH.SB.N331 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B7FC41E6 Lexmark T652 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B78C015F Olivetti d-Color MF928 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B724D84A Lexmark T654 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B781847E Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"brand": "mikrotik", "product": "a81", "device_type": "camera", "banner": "220 ET0021B777599A Sindoh A810dn Mono Printer FTP Server MSNGW.052.024 ready.\r\n"}
+{"brand": "cnet", "product": "s3000", "device_type": "camera", "banner": "220 LP-S3000-0ADC3F FTP server (OEM FTPD version 1.01) ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A4195) [192.168.0.1] UTF-8\r\n"}
+{"brand": "ericsson", "product": "t610", "device_type": "camera", "banner": "220 Welcome to WRT610N Router's FTP service\r\n"}
+{"brand": "ericsson", "product": "t610", "device_type": "camera", "banner": "220 Welcome to WRT610 Router's FTP service\r\n"}
+{"brand": "samsung", "product": "nx500", "device_type": "camera", "banner": "220 NexusNX-5000 FTP server (NexusWifiNX5000 6.27) ready\r\n"}
+{"brand": "canon", "product": "a16e", "device_type": "camera", "banner": "220 <a16e4ab6>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A41F1) [192.168.0.1] UTF-8\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 <a41236ca>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"brand": "iqinvision", "product": "iqeye511", "device_type": "camera", "banner": "220 FTP Version 1.1 on IQeye511\r\n"}
+{"brand": "axis", "product": "a8105-e", "device_type": "camera", "banner": "220 AXIS A8105-E Network Video Door Station 1.65.2 (2018) ready.\r\n"}
+{"brand": "axis", "product": "a8105-e", "device_type": "camera", "banner": "220 AXIS A8105-E Network Video Door Station 1.58.2.2 (2017) ready.\r\n"}
+{"brand": "axis", "product": "a8105-e", "device_type": "camera", "banner": "220 AXIS A8105-E Network Video Door Station 1.65.1.1 (2017) ready.\r\n"}
+{"brand": "axis", "product": "a8004-ve", "device_type": "camera", "banner": "220 AXIS A8004-VE Network Video Door Station 5.65.1.1 (2015) ready.\r\n"}
+{"brand": "axis", "product": "p8524", "device_type": "camera", "banner": "220 SungDang_Sector#2_P8524#3 FTP server ready.\r\n"}
+{"brand": "axis", "product": "a8004-ve", "device_type": "camera", "banner": "220 AXIS A8004-VE Network Video Door Station 1.65.2 (2018) ready.\r\n"}
+{"brand": "axis", "product": "a8105-e", "device_type": "camera", "banner": "220 AXIS A8105-E Network Video Door Station 1.65.3.2 (2019) ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A8004NS-M-45DA41) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"brand": "canon", "product": "a16e", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-R-A16EC5) [192.168.10.1]\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A41E5) [192.168.0.1] UTF-8\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-69FA41) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6AFA41) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-71A417) [::ffff:192.168.0.1] UTF-8\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A5004NS-M-C79A41) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "mikrotik", "product": "rb800", "device_type": "camera", "banner": "220 senius (#10636) RB800 FTP server (MikroTik 6.46) ready\r\n"}
+{"brand": "mikrotik", "product": "rb800", "device_type": "camera", "banner": "220 Home_RB800 FTP server (MikroTik 6.46beta68) ready\r\n"}
+{"brand": "samsung", "product": "nx500", "device_type": "camera", "banner": "220 qual-mari-oh FTP server (NX5000 6.35.2) ready\r\n"}
+{"brand": "vicon", "product": "iqeye802", "device_type": "camera", "banner": "220 FTP Version 1.1 on IQeye802\r\n"}
+{"brand": "iqinvision", "product": "iqeye752", "device_type": "camera", "banner": "220 FTP Version 1.1 on IQeye752\r\n"}
+{"brand": "iqinvision", "product": "iqeye855", "device_type": "camera", "banner": "220 FTP Version 1.1 on IQeye855\r\n"}
+{"brand": "axis", "product": "a8105-e", "device_type": "camera", "banner": "220 AXIS A8105-E Network Video Door Station 1.58.3 (2016) ready.\r\n"}
+{"brand": "iqinvision", "product": "iqeye511", "device_type": "camera", "banner": "220 FTP Version 1.1 on IQeye511DV\r\n"}
+{"brand": "axis", "product": "a8004-ve", "device_type": "camera", "banner": "220 AXIS A8004-VE Network Video Door Station 1.65.3.2 (2019) ready.\r\n"}
+{"brand": "iqinvision", "product": "iqeye755", "device_type": "camera", "banner": "220 FTP Version 1.1 on IQeye755\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B70173FB Lexmark MS410dn FTP Server NH62.CY.N636 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 PL16222 Lexmark MS410dn FTP Server NH41.CY.N454 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B70B2E0A Lexmark CS410n FTP Server NH63.VY.N640 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B73CFE76 Lexmark T652 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B781E0FB Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B73E34B7 Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ET0021B741A418 KONICA MINOLTA bizhub 4020 FTP Server NH.SB.N331 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B7FC41E6 Lexmark T652 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B78C015F Olivetti d-Color MF928 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "sony", "product": "n50", "device_type": "camera", "banner": "220 ET0021B724D84A Lexmark T654 FTP Server NR.APS.N504 ready.\r\n"}
+{"brand": "canon", "product": "s410", "device_type": "camera", "banner": "220 ET0021B781847E Lexmark MS410dn FTP Server NH.CY.N328 ready.\r\n"}
+{"brand": "mikrotik", "product": "a81", "device_type": "camera", "banner": "220 ET0021B777599A Sindoh A810dn Mono Printer FTP Server MSNGW.052.024 ready.\r\n"}
+{"brand": "cnet", "product": "s3000", "device_type": "camera", "banner": "220 LP-S3000-0ADC3F FTP server (OEM FTPD version 1.01) ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A4195) [192.168.0.1] UTF-8\r\n"}
+{"brand": "ericsson", "product": "t610", "device_type": "camera", "banner": "220 Welcome to WRT610N Router's FTP service\r\n"}
+{"brand": "ericsson", "product": "t610", "device_type": "camera", "banner": "220 Welcome to WRT610 Router's FTP service\r\n"}
+{"brand": "samsung", "product": "nx500", "device_type": "camera", "banner": "220 NexusNX-5000 FTP server (NexusWifiNX5000 6.27) ready\r\n"}
+{"brand": "canon", "product": "a16e", "device_type": "camera", "banner": "220 <a16e4ab6>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"brand": "acti", "product": "a41", "device_type": "camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A6004NS-M-6A41F1) [192.168.0.1] UTF-8\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B7E5DDE9 Lexmark XM1145 FTP Server NH5.SB.N543 ready.\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B76172D8 Lexmark XM1145 FTP Server NH.SB.N439 ready.\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B7CB3384 Lexmark XM1145 FTP Server NH63.SB.N640 ready.\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B7731D96 Lexmark XM1145 FTP Server NH63.SB.N639 ready.\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ET0021B7B8F445 Lexmark E360dn FTP Server NR.APS.N449 ready.\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6F4419) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F34", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F3417) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1AF445) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F44B1) [192.168.0.1]\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B7E5DDE9 Lexmark XM1145 FTP Server NH5.SB.N543 ready.\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B76172D8 Lexmark XM1145 FTP Server NH.SB.N439 ready.\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B7CB3384 Lexmark XM1145 FTP Server NH63.SB.N640 ready.\r\n"}
+{"brand": "AXIS", "product": "M1145", "device_type": "Camera", "banner": "220 ET0021B7731D96 Lexmark XM1145 FTP Server NH63.SB.N639 ready.\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ET0021B7B8F445 Lexmark E360dn FTP Server NR.APS.N449 ready.\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-6F4419) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F34", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F3417) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS-M-1AF445) [192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F44", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-6F44B1) [192.168.0.1]\r\n"}
+{"brand": "AXIS", "product": "M1103", "device_type": "Camera", "banner": "220 HB-M1103-EC-MX2008-181.Ext FTP server (Version 6.00LS) ready.\r\n"}
+{"brand": "AXIS", "product": "P3367", "device_type": "Camera", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.40.3 (2011) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.51.6 (2019) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.16 (May 31 2010) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3 (2013) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.40.9.2 (2012) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.51.5.1 (2018) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.51.5.2 (2019) ready.\r\n"}
+{"brand": "AXIS", "product": "Q6032-E", "device_type": "Camera", "banner": "220 AXIS Q6032-E PTZ Dome Network Camera 5.40 beta14 (2011) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.51.6 (2019) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 6.50.3.1 (2019) ready.\r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.20 (Sep 20 2010) ready.\r\n"}
+{"brand": "AXIS", "product": "P5534", "device_type": "Camera", "banner": "220 AXIS P5534 PTZ Dome Network Camera lfp-5.0.0 alpha126 Canna1.0 (2015) re\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.8 (2016) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.70.1.2 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.21 (Apr 28 2011) ready.\r\n"}
+{"brand": "AXIS", "product": "P3367", "device_type": "Camera", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.50.3 (2013) ready.\r\n"}
+{"brand": "SONY", "product": "SNC-RX550", "device_type": "Camera", "banner": "220 Welcome to SONY Network Camera SNC-RX550\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.6 (2016) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.40.9.2 (2012) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.2 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.12 (2017) ready.\r\n"}
+{"brand": "AXIS", "product": "P3367", "device_type": "Camera", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.40.3.2 (2012) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.50.5.5 (2017) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.70.1.4 (2016) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.40.9.5 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.51.5 (2018) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.21.1 (Mar 04 2011) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 6.50.4 (2019) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.40.9.3 (2013) ready.\r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.20.2 (Sep 09 2011) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.70.1 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.7 (2016) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.55.1.6 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "P3301", "device_type": "Camera", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.11.1 (Dec 11 2009) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.55.1.3 (2014) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 6.50.3 (2018) ready.\r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.20.4 (Jun 13 2017) ready.\r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.00.1 (Dec 16 2009) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.10 (2017) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.40.13 (2012) ready.\r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.20.1 (Oct 25 2010) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.55.1 (2013) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.51.5.1 (2018) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.1 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.55.1.2 (2014) ready.\r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.20.3 (Jun 23 2016) ready.\r\n"}
+{"brand": "AXIS", "product": "Q6034-E", "device_type": "Camera", "banner": "220 Axis Q6034-E PTZ Dome Network Camera ftpd ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.15.1 (Apr 20 2010) ready.\r\n"}
+{"brand": "AXIS", "product": "P3301", "device_type": "Camera", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.01 (Aug 01 2008) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 5.70.1.1 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.3 (2015) ready.\r\n"}
+{"brand": "AXIS", "product": "F34", "device_type": "Camera", "banner": "220 <f3496d91>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"brand": "AXIS", "product": "F41", "device_type": "Camera", "banner": "220 <2f416599>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"brand": "AXIS", "product": "M1103", "device_type": "Camera", "banner": "220 HB-M1103-EC-MX2008-180.Ext FTP server (Version 6.00LS) ready.\r\n"}
+{"brand": "AXIS", "product": "F41", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A704NS BCM-3F41D9) [::ffff:192.168.0.1] EUC-KR\r\n"}
+{"brand": "AXIS", "product": "F34", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-MU-3AF341) [192.168.10.1] UTF-8\r\n"}
+{"brand": "AXIS", "product": "F41", "device_type": "Camera", "banner": "220 <f41430cc>  Tenor Multipath Switch FTP server (Version VxWorks5.4.2) ready.\r\n"}
+{"brand": "AXIS", "product": "F34", "device_type": "Camera", "banner": "220 ipTIME_FTPD 1.3.4d Server (ipTIME A1004NS-9DF345) [192.168.0.1] UTF-8\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 6.30.1 (2016) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.40.9 (2012) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.50.5.1 (2017) ready.\r\n"}
+{"brand": "AXIS", "product": "P3367", "device_type": "Camera", "banner": "220 AXIS P3367 Fixed Dome Network Camera  5.60.1 (2014) ready.\r\n"}
+{"brand": "AXIS", "product": "Q1755", "device_type": "Camera", "banner": "220 AXIS Q1755 Network Camera 5.02 cst_release (sep 24 2009) ready.\r\n"}
+{"brand": "AXIS", "product": "M3006", "device_type": "Camera", "banner": "220 AXIS M3006 Network Camera 6.50.2.3 (2018) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.4 (2015) ready.\r\n"}
+{"brand": "Sony", "product": "SNC-EP521", "device_type": "Camera", "banner": "220-Sony Network Camera SNC-EP521\r\n220 \r\n"}
+{"brand": "AXIS", "product": "M1011", "device_type": "Camera", "banner": "220 AXIS M1011-W Network Camera 5.00 (Dec 23 2008) ready.\r\n"}
+{"brand": "AXIS", "product": "P1428-E", "device_type": "Camera", "banner": "220 AXIS P1428-E Network Camera lfp-16.13.3_CST550392_b3 (2016) ready.\r\n"}
+{"brand": "Sony", "product": "SNC-RS46", "device_type": "Camera", "banner": "220-Sony Network Camera SNC-RS46\r\n220 \r\n"}
+{"brand": "AXIS", "product": "M1033-W", "device_type": "Camera", "banner": "220 AXIS M1033-W Network Camera 5.40beta4 (2012) ready.\r\n"}
+{"brand": "AXIS", "product": "M3014", "device_type": "Camera", "banner": "220 AXIS M3014 Network Fixed Dome Camera 5.05 (Jun 23 2009) ready.\r\n"}
+{"brand": "AXIS", "product": "P3301", "device_type": "Camera", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.51.6 (2019) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.9 (2017) ready.\r\n"}
+{"brand": "AXIS", "product": "M1054", "device_type": "Camera", "banner": "220 AXIS M1054 Network Camera 5.50.3.13 (2017) ready.\r\n"}
+{"brand": "Sony", "product": "SNC-EP520", "device_type": "Camera", "banner": "220-Sony Network Camera SNC-EP520\r\n220 \r\n"}
+{"brand": "AXIS", "product": "P3301", "device_type": "Camera", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.50.5.4 (2017) ready.\r\n"}
+{"brand": "AXIS", "product": "P3301", "device_type": "Camera", "banner": "220 AXIS P3301 Network Fixed Dome Camera 5.40.9 (2012) ready.\r\n"}
+
