@@ -31,7 +31,20 @@ python run.py --type test --model <model name> --file <path name>
 The path name is the file path of your test data.
 # Model Adversarial Samples
 This section provides a method for generating adversarial samples to spoof model-based IoT device scanning activities.
+You can generate adversarial samples:
 ```
 python search_space_XX.py
 ```
 # Rule Adversarial Samples
+This section provides a method for generating adversarial samples to spoof rule-based IoT device scanning activities.  
+strategy_experiment implements different replacement strategies.  
+Device type and vendor contain different categories of hotwords.  
+Hotwords table can be generated based on the training set:
+```
+python get_hot_word.py
+```
+If the data set is updated, you can also get new hotwords table: 
+
+```
+python get_hot_word.py --data_path
+```
